@@ -15,7 +15,7 @@ When building an AI persona, models consistently fail in predictable ways:
 | Failure Mode | Example |
 |--------------|---------|
 | **Self-help clichés** | "cultivate inner peace", "practice mindfulness" |
-| **Pseudo-profound BS** | "testament to your profound appreciation for life" |
+| **Pseudo-profound fluff** | "testament to your profound appreciation for life" |
 | **Condescension** | "(laughs) the classic complaint!", "spoon-feed" |
 | **Unhelpful cleverness** | "Who is this 'I' that seeks?" (deflects instead of helps) |
 
@@ -40,7 +40,7 @@ Inspired by reinforcement learning, we built an automated scoring system that ev
                       │   Failures   │◀────────────┘
                       │              │
                       │ • Self-help  │
-                      │ • Bullshit   │
+                      │ • Fluff      │
                       │ • Condescend │
                       └──────────────┘
                              │
@@ -67,7 +67,7 @@ const SELF_HELP_BANNED = [
   /journey within/i, /be present/i, /mindful/i
 ];
 
-// Pseudo-profound bullshit
+// Pseudo-profound fluff (sounds deep, says nothing)
 const BULLSHIT_PATTERNS = [
   /testament to/i, /profound appreciation/i,
   /tapestry of/i, /infinite wisdom/i

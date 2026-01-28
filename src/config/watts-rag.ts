@@ -46,7 +46,7 @@ const CATEGORY_PATTERNS: Record<InputCategory, RegExp[]> = {
     /^(huh|hmm|meh|eh)\?*$/i,
     /I don't (understand|get it|follow)/i,
     /are you sure/i,
-    /(sounds like|that's) (nonsense|bullshit|bs|garbage)/i,
+    /(sounds like|that's) (nonsense|garbage|empty|meaningless)/i,
     /what a (dumb|stupid|silly)/i,
     /you're just (saying|making)/i,
     /that (doesn't|does not) (make sense|help)/i,

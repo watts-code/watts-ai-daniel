@@ -121,7 +121,7 @@ export default function LoopsPage() {
             <div className="bg-zinc-800/50 rounded-lg p-4 font-mono text-xs">
               <pre className="text-zinc-400 overflow-x-auto">{`interface Gate1Score {
   noSelfHelp: boolean;     // No banned clichés
-  noBullshit: boolean;     // No purple prose
+  noFluff: boolean;        // No purple prose
   noCondescension: boolean; // No mocking users
   wattsVoice: boolean;     // Has voice markers (soft)
 }
@@ -261,9 +261,9 @@ interface Gate2Score {
           </div>
         </section>
 
-        {/* Bullshit Detection */}
+        {/* Fluff Detection */}
         <section className="mb-16">
-          <h2 className="text-2xl font-serif mb-6 text-amber-400">Bullshit Detection: Purple Prose Filter</h2>
+          <h2 className="text-2xl font-serif mb-6 text-amber-400">Fluff Detection: Purple Prose Filter</h2>
           <p className="text-zinc-300 mb-6">
             LLMs love to produce pseudo-profound language—phrases that <em>sound</em> deep but say nothing.
             We added explicit pattern matching to catch this:
@@ -272,7 +272,7 @@ interface Gate2Score {
           <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-6">
             <div className="grid md:grid-cols-2 gap-4">
               <div>
-                <p className="text-red-400 text-xs mb-3 uppercase tracking-wide">Detected as Bullshit</p>
+                <p className="text-red-400 text-xs mb-3 uppercase tracking-wide">Detected as Hollow Fluff</p>
                 <ul className="space-y-2 text-sm">
                   <li className="flex gap-2">
                     <span className="text-red-400">✗</span>
@@ -312,7 +312,7 @@ interface Gate2Score {
                 <strong className="text-red-400">Example caught:</strong> &quot;That very fear is a <span className="text-red-300">testament to your profound appreciation</span> for life—it&apos;s not just the end of the sentence, but the <span className="text-red-300">punctuation mark that makes every moment count</span>.&quot;
               </p>
               <p className="text-zinc-600 text-xs mt-2">
-                Sounds profound, says nothing. Fails the No-BS check.
+                Sounds profound, says nothing. Fails the No-Fluff check.
               </p>
             </div>
           </div>

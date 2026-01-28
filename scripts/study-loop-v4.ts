@@ -1,7 +1,7 @@
 /**
  * Study Loop v5 - Helpfulness-First Scoring
  *
- * Gate 1 (Quality): No self-help clichés, no bullshit, no condescension, Watts voice
+ * Gate 1 (Quality): No self-help clichés, no hollow fluff, no condescension, Watts voice
  * Gate 2 (Helpfulness): Actually helps the person - acknowledges, reframes, gives something concrete
  *
  * REMOVED: Brevity constraint. Longer responses are fine if they actually help.
@@ -9,7 +9,7 @@
 
 interface Gate1Score {
   noSelfHelp: boolean;     // No banned phrases
-  noBullshit: boolean;     // No pseudo-profound purple prose
+  noFluff: boolean;        // No pseudo-profound purple prose
   noCondescension: boolean; // No mocking frustrated users
   wattsVoice: boolean;     // Has characteristic markers
   passed: boolean;
@@ -69,8 +69,8 @@ const WATTS_VOICE_MARKERS = [
   /\?$/,  // Ends with question
 ];
 
-// Pseudo-profound bullshit patterns - sounds deep but says nothing
-const BULLSHIT_PATTERNS = [
+// Pseudo-profound fluff patterns - sounds deep but says nothing
+const FLUFF_PATTERNS = [
   { pattern: /testament to/i, reason: 'Flowery filler' },
   { pattern: /profound appreciation/i, reason: 'Purple prose' },
   { pattern: /makes every moment count/i, reason: 'Hallmark card' },
@@ -88,7 +88,7 @@ const BULLSHIT_PATTERNS = [
   { pattern: /surrend(er|ing) to/i, reason: 'Spiritual bypass' },
 ];
 
-// Condescending patterns - separate from bullshit for clarity
+// Condescending patterns - separate from fluff for clarity
 const CONDESCENSION_PATTERNS = [
   { pattern: /the (classic|old) ["']?[^"']+["']? (approach|complaint|piece|move)/i, reason: 'Mocking pattern' },
   { pattern: /spoon-?feed/i, reason: 'Insulting' },
@@ -116,13 +116,13 @@ function scoreGate1(response: string): Gate1Score {
   const noSelfHelp = selfHelpMatches.length === 0;
   if (!noSelfHelp) failures.push(`Self-help: ${selfHelpMatches.join(', ')}`);
 
-  // No bullshit - detect pseudo-profound purple prose
-  const bullshitMatches: string[] = [];
-  BULLSHIT_PATTERNS.forEach(({ pattern, reason }) => {
-    if (pattern.test(response)) bullshitMatches.push(reason);
+  // No fluff - detect pseudo-profound purple prose
+  const fluffMatches: string[] = [];
+  FLUFF_PATTERNS.forEach(({ pattern, reason }) => {
+    if (pattern.test(response)) fluffMatches.push(reason);
   });
-  const noBullshit = bullshitMatches.length === 0;
-  if (!noBullshit) failures.push(`Bullshit: ${bullshitMatches.join(', ')}`);
+  const noFluff = fluffMatches.length === 0;
+  if (!noFluff) failures.push(`Hollow fluff: ${fluffMatches.join(', ')}`);
 
   // No condescension - especially important for pushback
   const condescensionMatches: string[] = [];
@@ -137,8 +137,8 @@ function scoreGate1(response: string): Gate1Score {
   const wattsVoice = hasVoice;
   if (!wattsVoice) failures.push('Missing Watts voice markers');
 
-  const passed = noSelfHelp && noBullshit && noCondescension; // Voice is soft requirement
-  return { noSelfHelp, noBullshit, noCondescension, wattsVoice, passed, failures };
+  const passed = noSelfHelp && noFluff && noCondescension; // Voice is soft requirement
+  return { noSelfHelp, noFluff, noCondescension, wattsVoice, passed, failures };
 }
 
 // ============ GATE 2: HELPFULNESS ============
@@ -552,7 +552,7 @@ const REGRESSION_THRESHOLDS = {
 async function runStudyLoopV5() {
   console.log('🧘 Watts Demo Study Loop v5 - Helpfulness-First + Engagement Scoring\n');
   console.log('═'.repeat(70));
-  console.log('Gate 1 (Quality): No self-help clichés, no bullshit, no condescension');
+  console.log('Gate 1 (Quality): No self-help clichés, no hollow fluff, no condescension');
   console.log('Gate 2 (Helpfulness): Acknowledges, reframes, gives something concrete');
   console.log('Gate 3 (Engagement): Opens space, builds bridge, invites deeper');
   console.log('REMOVED: Brevity constraint. Longer responses are fine if helpful.\n');
@@ -588,7 +588,7 @@ async function runStudyLoopV5() {
       // Gate 1 results
       const g1 = score.gate1;
       console.log(`GATE 1 (Quality): ${g1.passed ? '✅ PASS' : '❌ FAIL'}`);
-      console.log(`  No self-help: ${g1.noSelfHelp ? '✓' : '✗'} | No BS: ${g1.noBullshit ? '✓' : '✗'} | No condescension: ${g1.noCondescension ? '✓' : '✗'} | Watts voice: ${g1.wattsVoice ? '✓' : '✗'}`);
+      console.log(`  No self-help: ${g1.noSelfHelp ? '✓' : '✗'} | No fluff: ${g1.noFluff ? '✓' : '✗'} | No condescension: ${g1.noCondescension ? '✓' : '✗'} | Watts voice: ${g1.wattsVoice ? '✓' : '✗'}`);
       if (g1.failures.length > 0) console.log(`  Issues: ${g1.failures.join(', ')}`);
 
       // Gate 2 results

@@ -177,7 +177,7 @@ export default function TechnologyPage() {
             <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-6 text-center">
               <p className="text-4xl font-bold text-green-400 mb-2">5/5</p>
               <p className="text-zinc-500 text-sm">Gate 1: Form</p>
-              <p className="text-zinc-600 text-xs mt-1">brevity, voice, no self-help, no BS</p>
+              <p className="text-zinc-600 text-xs mt-1">brevity, voice, no self-help, no fluff</p>
             </div>
             <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-6 text-center">
               <p className="text-4xl font-bold text-green-400 mb-2">5/5</p>
