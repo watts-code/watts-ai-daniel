@@ -4,32 +4,42 @@ Items needing resolution or clarification.
 
 ---
 
-## Post-Meeting (Jan 27, 2026)
+## Current (Post Business Structure Meeting)
 
-1. **What specific contribution does Permian want from AIC?**
-   - Study loop methodology integration?
-   - Prompt engineering consulting?
-   - Additional development work?
+1. **Study loop integration path?**
+   - How does AIC's study loop methodology fit into Justin's MVP?
+   - Port to Python/FastAPI or keep as separate validation tool?
 
-2. **Integration path for study loop methodology into their codebase?**
-   - Port to Python/FastAPI?
-   - Keep separate as validation tool?
-   - Integrate into their CI/CD pipeline?
+2. **Daniel's specific deliverables?**
+   - Colin mentioned "AI technology inputs, proprietary data insights, user interaction design"
+   - What does this translate to concretely?
 
-3. **Access to Mark Watts' audio archive for RAG/training?**
-   - What content is available?
-   - Licensing considerations?
-   - Technical format of materials?
+3. **Content access for development?**
+   - When will we have access to actual Watts audio/transcripts for RAG testing?
+   - What format will content be provided in?
 
-4. **Timeline and milestones?**
-   - What does Permian need and when?
-   - What are the deliverable checkpoints?
+4. **Technical coordination with Lisbon team?**
+   - Should we participate in the Justin/Alex/Jack tech meetings?
+   - Integration points between our work and theirs?
 
 ---
 
-## Resolved
+## Resolved (Jan 27 Business Structure Meeting)
 
-*Move resolved questions here with their answers*
+1. **What specific contribution does Permian want from AIC?**
+   - **Answer:** Colin to support with AI technology inputs, proprietary data insights, user interaction design. Daniel's study loop methodology for prompt quality.
+
+2. **Access to Mark Watts' audio archive?**
+   - **Answer:** Mark controls Human Potential Audio Foundation archives including Esalen recordings and rare cassettes. Non-exclusive licensing model planned.
+
+3. **Timeline and milestones?**
+   - **Answer:** MVP target end of February (website + domain). Framework agreement being finalized now.
+
+4. **Business model?**
+   - **Answer:** 70/30 royalty split (Spotify model), $7/month single library, $15-17 bundled. Blended ownership between library owners, capital providers, and operators.
+
+5. **Who are the other content sources?**
+   - **Answer:** Alan Watts, Deepak Chopra, Ram Dass, Aldous Huxley, Campbell Foundation. Ram Dass foundation (Raghu Agarwal) already signaled openness.
 
 ---
 

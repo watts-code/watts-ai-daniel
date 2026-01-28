@@ -4,17 +4,17 @@
 
 | Person | Role | Contact |
 |--------|------|---------|
-| Justin Charles | | jcharles@permianlp.com |
+| Justin Charles | Tech lead, building MVP | jcharles@permianlp.com |
 | Jack Quinlan | | |
 | Winnie Makama | | |
-| Alex Duran | Connected to Mark Watts' efforts | |
+| Alex Duran | Business development, library partnerships | |
 
 ## AIC Holdings
 
 | Person | Role | Contact |
 |--------|------|---------|
-| Collin Bird | CIO | cbird@aicholdings.com |
-| Daniel Shanklin | Director of AI | |
+| Collin Bird | CIO, capital provider | cbird@aicholdings.com |
+| Daniel Shanklin | Director of AI, study loop methodology | |
 
 ## Alan Watts Organization
 
@@ -28,6 +28,22 @@
 - Recently acquired high-quality Nagra playback deck for archival audio work
 - Has ~50 new recordings (many Q&A sessions) needing audio upgrade work
 - Dealing with AI social media imposters - defensive strategies with YouTube/Google
+- Controls Human Potential Audio Foundation archives (Esalen recordings, rare cassettes)
+
+## Other Foundations & Partners
+
+| Person | Organization | Role | Contact |
+|--------|--------------|------|---------|
+| Raghu Agarwal | Ram Dass Foundation | Foundation lead, open to participation | |
+| Ameeth Sankaran | Legal | IP licensing, framework agreements | |
+| (TBD) | Deepak Chopra team | | |
+| (TBD) | Campbell Foundation | | |
+
+## Technical Partners
+
+| Team | Focus |
+|------|-------|
+| Lisbon AI team | Content digitization, animation, archive management tools |
 
 ---
 

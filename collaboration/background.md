@@ -68,17 +68,73 @@ Evolved the prototype into a study loop methodology:
 
 ---
 
+## Business Model (Decided Jan 27)
+
+### Ownership Structure
+Blended model combining three stakeholder types:
+
+| Stakeholder | Contribution | Receives |
+|-------------|--------------|----------|
+| Library owners (Mark, foundations) | Digital content as equity in kind | Ownership stake + royalties |
+| Capital providers (Colin, Alex) | Funding | Ownership stake |
+| Operators (Justin, Lisbon team) | Development work | Equity/options pool |
+
+### Revenue Model (Spotify-inspired)
+- **70%** of subscription revenue to content owners
+- Allocation based on **listening hours** (actual user consumption)
+- Cross-library usage tracked precisely for fair splits
+- Royalties paid separately for immediate cash flow
+
+### Subscription Pricing
+| Tier | Price | Description |
+|------|-------|-------------|
+| Single library | $7/month | Access to one philosopher |
+| All-access bundle | $15-17/month | All libraries |
+
+Market comps: Blinkist, Gaia, Audible, Headspace ($12-18 range)
+
+---
+
+## Platform Vision: Wisdom Library
+
+**Core Concept:** Premium subscription service aggregating philosophical voices into conversational AI experiences.
+
+**Key Features:**
+- AI personas of luminaries (Watts, Chopra, Ram Dass, Huxley)
+- "River guides" (AI curators like "Samantha") for content discovery
+- Multi-luminary dialogues (simulated conversations between figures)
+- Near-zero latency querying entire content library
+- User listening pattern tracking for personalization
+- Source prioritization (users can select/deselect content sources)
+
+**Differentiators:**
+- Verified, high-fidelity original recordings
+- Exclusive content (Esalen archives, unreleased tapes)
+- Authentic source material vs. generic AI-generated content
+- Fast, context-rich responses anchored in real material
+
+---
+
 ## How This Fits Together
 
-**Open Questions (Pre-Meeting Jan 27):**
-1. How does AIC's technical work complement Mark Watts' existing projects?
-2. Is the goal to support Mark's efforts or build something separate?
-3. Access to legacy audio materials for training/transcription?
+**Permian's Role:**
+- Justin building MVP (target: end of February)
+- Platform architecture, AI query system, user experience
+- Business development with foundations (Alex)
 
-**Post-Meeting Understanding:**
-- Permian has their own implementation (watts-ai repo)
-- philosophe-ai is the multi-guru expansion platform
-- AIC contribution is the study loop methodology for prompt quality
+**Mark Watts' Role:**
+- Content source (Watts archives, Human Potential Audio Foundation)
+- Gateway to other foundations (Ram Dass, Campbell)
+- Quality control and authenticity assurance
+
+**AIC's Role:**
+- Colin: Capital provider, AI technology inputs, proprietary data insights
+- Daniel: Study loop methodology for prompt quality scoring
+
+**Lisbon Team's Role:**
+- Content digitization and animation
+- Archive management tools
+- Production acceleration
 
 ---
 
