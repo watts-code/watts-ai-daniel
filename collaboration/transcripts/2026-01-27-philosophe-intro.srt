@@ -1,0 +1,2157 @@
+
+Meeting created at: 27th Jan, 2026 - 1:30 PM1
+00:00:07,680 --> 00:00:08,080
+Daniel Shanklin: Okay?
+
+2
+00:00:09,360 --> 00:00:09,880
+Justin Charles: Yes.
+
+3
+00:00:09,880 --> 00:00:10,400
+Collin Bird - AIC: Yeah.
+
+4
+00:00:11,200 --> 00:00:11,880
+Daniel Shanklin: It's Daniel.
+
+5
+00:00:11,880 --> 00:00:12,200
+Daniel Shanklin: I.
+
+6
+00:00:12,200 --> 00:00:12,520
+Daniel Shanklin: Yes.
+
+7
+00:00:12,520 --> 00:00:13,200
+Daniel Shanklin: Nice to meet you.
+
+8
+00:00:13,920 --> 00:00:14,640
+Justin Charles: Hey, Daniel.
+
+9
+00:00:14,640 --> 00:00:15,360
+Justin Charles: Nice to meet you.
+
+10
+00:00:16,640 --> 00:00:17,200
+Daniel Shanklin: Let's see.
+
+11
+00:00:17,200 --> 00:00:20,560
+Daniel Shanklin: I. I know Colin was accepted, maybe busy.
+
+12
+00:00:20,560 --> 00:00:21,040
+Daniel Shanklin: We got.
+
+13
+00:00:21,440 --> 00:00:22,800
+Daniel Shanklin: I don't know where y' all are located.
+
+14
+00:00:22,800 --> 00:00:26,880
+Daniel Shanklin: We're in Frozen 2 right now, I think.
+
+15
+00:00:27,040 --> 00:00:27,760
+Justin Charles: Yeah, yeah.
+
+16
+00:00:27,760 --> 00:00:28,560
+Justin Charles: So I'm in.
+
+17
+00:00:28,560 --> 00:00:29,920
+Justin Charles: I'm in Alaska as well.
+
+18
+00:00:30,870 --> 00:00:31,430
+Daniel Shanklin: Oh, okay.
+
+19
+00:00:31,430 --> 00:00:31,750
+Justin Charles: Nice.
+
+20
+00:00:32,630 --> 00:00:33,430
+Daniel Shanklin: Are you in the.
+
+21
+00:00:33,590 --> 00:00:35,750
+Daniel Shanklin: The Houston or the Dallas part of Alaska?
+
+22
+00:00:37,350 --> 00:00:38,150
+Justin Charles: Dallas part.
+
+23
+00:00:38,470 --> 00:00:39,910
+Daniel Shanklin: The Dallas part of Alaska.
+
+24
+00:00:39,910 --> 00:00:40,230
+Justin Charles: Nice.
+
+25
+00:00:40,230 --> 00:00:40,630
+Justin Charles: Nice.
+
+26
+00:00:41,110 --> 00:00:42,950
+Justin Charles: How are you doing?
+
+27
+00:00:42,950 --> 00:00:43,430
+Daniel Shanklin: Okay.
+
+28
+00:00:43,430 --> 00:00:44,150
+Daniel Shanklin: Doing all right.
+
+29
+00:00:44,310 --> 00:00:48,830
+Daniel Shanklin: I used to live in Boone, North Carolina, which is not warmer than Dallas.
+
+30
+00:00:48,830 --> 00:00:49,310
+Daniel Shanklin: I don't know.
+
+31
+00:00:49,310 --> 00:00:50,070
+Justin Charles: I don't know what's going on.
+
+32
+00:00:50,070 --> 00:00:51,710
+Justin Charles: So, yeah, I saw your LinkedIn.
+
+33
+00:00:51,710 --> 00:00:56,940
+Justin Charles: I lived in Asheville when I was, like, 7 to, like, 16.
+
+34
+00:00:56,940 --> 00:00:58,460
+Justin Charles: And then I went to Davidson.
+
+35
+00:00:59,900 --> 00:01:01,180
+Justin Charles: So, you know, I've been to Boone.
+
+36
+00:01:01,740 --> 00:01:02,540
+Jack Quinlan: Very cool.
+
+37
+00:01:03,340 --> 00:01:04,060
+Justin Charles: Small world.
+
+38
+00:01:04,459 --> 00:01:07,500
+Daniel Shanklin: You used to get a breakfast burrito with a.
+
+39
+00:01:08,620 --> 00:01:09,380
+Daniel Shanklin: What's his name?
+
+40
+00:01:09,380 --> 00:01:10,140
+Daniel Shanklin: From Davidson.
+
+41
+00:01:10,140 --> 00:01:10,700
+Daniel Shanklin: Damn it.
+
+42
+00:01:14,620 --> 00:01:15,420
+Daniel Shanklin: From Commons.
+
+43
+00:01:16,700 --> 00:01:17,620
+Daniel Shanklin: I was thinking Steph.
+
+44
+00:01:17,620 --> 00:01:19,100
+Justin Charles: You're talking about the Steph Curry video?
+
+45
+00:01:19,660 --> 00:01:20,060
+Collin Bird - AIC: Yeah.
+
+46
+00:01:20,060 --> 00:01:20,340
+Justin Charles: Yeah.
+
+47
+00:01:20,340 --> 00:01:20,820
+Daniel Shanklin: There you go.
+
+48
+00:01:20,820 --> 00:01:21,260
+Justin Charles: Yeah.
+
+49
+00:01:22,150 --> 00:01:22,790
+Justin Charles: That's funny.
+
+50
+00:01:22,950 --> 00:01:25,550
+Justin Charles: I'm actually still friends with, like, a lot of the guys in that.
+
+51
+00:01:25,550 --> 00:01:26,230
+Justin Charles: In that video.
+
+52
+00:01:26,550 --> 00:01:26,950
+Jack Quinlan: His.
+
+53
+00:01:27,270 --> 00:01:27,990
+Justin Charles: Hey, Kong.
+
+54
+00:01:28,230 --> 00:01:28,790
+Justin Charles: We're just.
+
+55
+00:01:29,190 --> 00:01:30,710
+Collin Bird - AIC: Hey, how are you guys?
+
+56
+00:01:31,030 --> 00:01:31,430
+Justin Charles: Good.
+
+57
+00:01:31,670 --> 00:01:32,070
+Justin Charles: Good.
+
+58
+00:01:32,150 --> 00:01:34,710
+Daniel Shanklin: I figured they were our age group.
+
+59
+00:01:34,710 --> 00:01:35,030
+Justin Charles: Yeah.
+
+60
+00:01:35,030 --> 00:01:35,430
+Justin Charles: Yeah.
+
+61
+00:01:35,430 --> 00:01:40,150
+Justin Charles: So, actually, one of my friends was, like, the basketball manager in that video.
+
+62
+00:01:40,150 --> 00:01:42,230
+Justin Charles: He works for a private equity fund now.
+
+63
+00:01:42,710 --> 00:01:44,550
+Justin Charles: And then Steph's.
+
+64
+00:01:44,550 --> 00:01:59,230
+Justin Charles: So Steph's roommate, David Simmons, this guy Brian Barr, who was, like, a math genius and ran data analytics at Nike, and I think he is now, like, kind of just, like, runs Steph's, like, private affairs.
+
+65
+00:02:00,350 --> 00:02:01,310
+Justin Charles: So it's kind of funny.
+
+66
+00:02:01,310 --> 00:02:05,310
+Justin Charles: Like, there's like, a whole orbit of Step where all the guys are, like, still connected to him.
+
+67
+00:02:06,030 --> 00:02:06,590
+Daniel Shanklin: Cool.
+
+68
+00:02:06,830 --> 00:02:07,470
+Justin Charles: Anyway.
+
+69
+00:02:08,350 --> 00:02:08,910
+Justin Charles: Yeah.
+
+70
+00:02:09,150 --> 00:02:09,509
+Justin Charles: Well.
+
+71
+00:02:09,509 --> 00:02:10,630
+Daniel Shanklin: Well, you lived in a good spot.
+
+72
+00:02:10,630 --> 00:02:14,910
+Daniel Shanklin: Asheville's a. I lived there for one year, and.
+
+73
+00:02:14,910 --> 00:02:15,390
+Daniel Shanklin: And then they.
+
+74
+00:02:15,390 --> 00:02:18,030
+Daniel Shanklin: And then they passed, like, reparations, and I was like, I'm out of here.
+
+75
+00:02:18,270 --> 00:02:18,990
+Justin Charles: Oh, really?
+
+76
+00:02:19,150 --> 00:02:19,790
+Daniel Shanklin: Oh, yeah.
+
+77
+00:02:19,790 --> 00:02:21,150
+Daniel Shanklin: I was like, I've had enough.
+
+78
+00:02:23,630 --> 00:02:24,990
+Justin Charles: Colin, have you met Jack?
+
+79
+00:02:26,430 --> 00:02:27,230
+Justin Charles: I don't think I have.
+
+80
+00:02:27,230 --> 00:02:27,950
+Justin Charles: I don't think so.
+
+81
+00:02:28,110 --> 00:02:28,830
+Jack Quinlan: Not yet.
+
+82
+00:02:29,470 --> 00:02:29,830
+Justin Charles: Yeah.
+
+83
+00:02:29,830 --> 00:02:30,750
+Collin Bird - AIC: Good to meet you, Jack.
+
+84
+00:02:30,910 --> 00:02:32,110
+Jack Quinlan: Yeah, nice to meet you, too.
+
+85
+00:02:33,630 --> 00:02:45,720
+Justin Charles: So, Jack, I. I know from pre Permian he is in the process of joining us, and he's moving to Dallas in, like, two weeks from D.C. so.
+
+86
+00:02:45,720 --> 00:02:46,360
+Justin Charles: So, yeah.
+
+87
+00:02:46,360 --> 00:02:47,160
+Justin Charles: And Daniel.
+
+88
+00:02:47,160 --> 00:02:48,840
+Justin Charles: Nice to meet you, Daniel.
+
+89
+00:02:48,840 --> 00:02:49,320
+Justin Charles: Jack.
+
+90
+00:02:52,120 --> 00:02:53,280
+Justin Charles: So I think the.
+
+91
+00:02:53,280 --> 00:02:55,640
+Justin Charles: The purpose of this call is to figure out how.
+
+92
+00:02:56,440 --> 00:02:57,640
+Justin Charles: How we can work together.
+
+93
+00:02:58,120 --> 00:03:06,760
+Justin Charles: On this philosophy project, I don't really have, like, a specific.
+
+94
+00:03:07,080 --> 00:03:08,880
+Justin Charles: I can give you data if it's helpful.
+
+95
+00:03:08,880 --> 00:03:14,790
+Justin Charles: I can, like, give you an overview of what we're attempting to make.
+
+96
+00:03:14,790 --> 00:03:16,550
+Justin Charles: I don't know how familiar you are with it.
+
+97
+00:03:16,630 --> 00:03:18,030
+Justin Charles: And then we can show you.
+
+98
+00:03:18,030 --> 00:03:23,830
+Justin Charles: And I can send you what we've done with Alan Watts so far, because a lot of this is like a port of.
+
+99
+00:03:24,310 --> 00:03:25,910
+Justin Charles: Of what we did with Alan.
+
+100
+00:03:26,549 --> 00:03:33,110
+Justin Charles: And then happy to figure out, like, how it makes the most sense to integrate you into this.
+
+101
+00:03:33,670 --> 00:03:34,030
+Collin Bird - AIC: Yeah.
+
+102
+00:03:34,030 --> 00:03:37,840
+Collin Bird - AIC: And I'm sure Justin, like, look, Alex and I appreciate that y' all have.
+
+103
+00:03:37,920 --> 00:03:40,640
+Collin Bird - AIC: Both you, Daniel and Jack have day jobs.
+
+104
+00:03:40,640 --> 00:03:40,960
+Justin Charles: Right.
+
+105
+00:03:40,960 --> 00:03:42,960
+Collin Bird - AIC: And this is kind of a side project.
+
+106
+00:03:43,200 --> 00:03:48,400
+Collin Bird - AIC: So this is to the extent that you want more people under the tent to help build this app.
+
+107
+00:03:48,640 --> 00:03:50,080
+Collin Bird - AIC: I think Daniel been.
+
+108
+00:03:50,480 --> 00:03:56,040
+Collin Bird - AIC: He's only been with us for four months now, maybe a little more, but he's been a good builder.
+
+109
+00:03:56,040 --> 00:03:58,840
+Collin Bird - AIC: I think he's a good thinker about these kind of things.
+
+110
+00:03:58,840 --> 00:04:01,920
+Collin Bird - AIC: And so, you know, we just wanted to give you another resource.
+
+111
+00:04:02,560 --> 00:04:10,480
+Collin Bird - AIC: But as far as, like, product management goes and what needs to be done, that's you as far as I'm concerned.
+
+112
+00:04:10,560 --> 00:04:12,160
+Collin Bird - AIC: So, you know, we're here.
+
+113
+00:04:12,240 --> 00:04:15,440
+Collin Bird - AIC: We just want to be a resource and kind of help out where we can.
+
+114
+00:04:16,560 --> 00:04:17,120
+Daniel Shanklin: Okay.
+
+115
+00:04:17,279 --> 00:04:18,959
+Justin Charles: Yeah, I mean, that sounds great.
+
+116
+00:04:19,200 --> 00:04:20,959
+Justin Charles: So maybe I give you.
+
+117
+00:04:22,640 --> 00:04:26,800
+Justin Charles: Daniel, let me give you, like, a quick demo of Watts.
+
+118
+00:04:27,360 --> 00:04:27,760
+Daniel Shanklin: Sure.
+
+119
+00:04:30,720 --> 00:04:31,840
+Justin Charles: Just going to pull it up here.
+
+120
+00:04:32,400 --> 00:04:32,800
+Justin Charles: So.
+
+121
+00:04:33,920 --> 00:04:34,720
+Justin Charles: And I'm.
+
+122
+00:04:34,800 --> 00:04:36,640
+Justin Charles: I'm assuming you're familiar with.
+
+123
+00:04:37,040 --> 00:04:38,720
+Justin Charles: I think I shared that on the screen.
+
+124
+00:04:38,960 --> 00:04:39,600
+Justin Charles: One sec.
+
+125
+00:04:39,760 --> 00:04:41,040
+Jack Quinlan: I can see.
+
+126
+00:04:41,040 --> 00:04:42,080
+Justin Charles: Is this Alan Watts?
+
+127
+00:04:42,320 --> 00:04:42,760
+Justin Charles: Okay.
+
+128
+00:04:42,760 --> 00:04:43,120
+Justin Charles: Yeah.
+
+129
+00:04:43,360 --> 00:04:43,920
+Justin Charles: Okay.
+
+130
+00:04:45,600 --> 00:04:47,760
+Justin Charles: Daniel, how familiar are you with Alan Watts?
+
+131
+00:04:48,960 --> 00:04:55,030
+Daniel Shanklin: I did some reading on him a few years ago, and then after all this started, I went off and read some more.
+
+132
+00:04:55,030 --> 00:04:59,510
+Daniel Shanklin: But other than ever, other than I went to massage school back in 2016.
+
+133
+00:04:59,510 --> 00:05:04,550
+Daniel Shanklin: I think they talked about him then, but I've since left the tribe and I need a refresher.
+
+134
+00:05:04,870 --> 00:05:05,350
+Justin Charles: Yeah.
+
+135
+00:05:05,670 --> 00:05:06,710
+Justin Charles: So he's.
+
+136
+00:05:07,750 --> 00:05:09,190
+Justin Charles: He's essentially one of these.
+
+137
+00:05:09,270 --> 00:05:11,790
+Justin Charles: I guess you could put him in the spiritual guru bucket.
+
+138
+00:05:11,790 --> 00:05:12,790
+Justin Charles: Like, does a bunch of.
+
+139
+00:05:13,190 --> 00:05:14,710
+Justin Charles: Had done a bunch of talks.
+
+140
+00:05:15,430 --> 00:05:16,550
+Justin Charles: Very interesting guy.
+
+141
+00:05:16,950 --> 00:05:24,790
+Justin Charles: Passed away in the 70s, and his son Mark has really become the steward of all things Alan Watts.
+
+142
+00:05:24,790 --> 00:05:25,830
+Justin Charles: There's a foundation.
+
+143
+00:05:27,510 --> 00:05:32,870
+Justin Charles: And so what we did was as like a kind of like a test project.
+
+144
+00:05:33,670 --> 00:05:39,190
+Justin Charles: We built this little app that basically takes all of Mark's.
+
+145
+00:05:39,910 --> 00:05:49,120
+Justin Charles: The content repository that Mark has of Alan's works, Whether it's text, MP3, you know, audio or video.
+
+146
+00:05:49,440 --> 00:06:04,080
+Justin Charles: And we've built this Little app where you can go in here and basically say like, you know, you could ask whatever you want, but what would Alan Watts say is the meaning of life, right?
+
+147
+00:06:08,400 --> 00:06:16,980
+Justin Charles: And then it will essentially search the content for semantic understanding and then respond with answer and then cited sources.
+
+148
+00:06:17,300 --> 00:06:22,500
+Justin Charles: And then we've done a lot of work on like the visual workflow of, you know, it's citing this audio lecture.
+
+149
+00:06:22,500 --> 00:06:33,460
+Justin Charles: So if you click it will bring you right to it and then it will bring you exactly to the point of the transcript that it is citing from.
+
+150
+00:06:33,940 --> 00:07:00,920
+Justin Charles: And then as you play the content, you know, it will kind of scroll the transcript so you can keep track of where you are in the talk and then you can jump around and then on the left hand side, it keeps track of, you know, all the content, what you've watched, what you haven't, you know, has video and it's kind of all plugged into to this chat app.
+
+151
+00:07:02,600 --> 00:07:09,360
+Justin Charles: And so we can talk more about how we did this and we'd love to get your thoughts because I think that's probably more your area of expertise.
+
+152
+00:07:09,360 --> 00:07:22,330
+Justin Charles: But our plan is to essentially take this look for philosophy AI add the ability to have multiple kind of gurus.
+
+153
+00:07:22,970 --> 00:07:28,330
+Justin Charles: So in addition to Alan, you would have Deepak Chopra.
+
+154
+00:07:28,570 --> 00:07:31,210
+Justin Charles: So if you are Rav Das or whoever.
+
+155
+00:07:31,850 --> 00:07:43,830
+Justin Charles: So if you ask, in this chat, you could have very different types of experiences, such as like, hey, I want to know more about the meaning of life.
+
+156
+00:07:43,830 --> 00:07:47,150
+Justin Charles: Like summarize what Alan, Deepak would have to say.
+
+157
+00:07:47,150 --> 00:08:05,380
+Justin Charles: Or maybe like Alan and Deepak have a, a discussion or we make like a long form podcast episode for your ride to work where it's like a synthetic version of Alan Watts's voice and Deepak's voice, like having a conversation about their views on the meaning of life, right?
+
+158
+00:08:06,100 --> 00:08:14,980
+Justin Charles: And like the whole idea is to basically build an experience that is a conduit.
+
+159
+00:08:15,460 --> 00:08:25,060
+Justin Charles: And in this case, like how we built the Watts experiences, it's really more so this chat experiences Samantha, which is designed to be your river guide to all things Alan Watts.
+
+160
+00:08:25,380 --> 00:08:27,100
+Justin Charles: So maybe it has many different vectors.
+
+161
+00:08:27,100 --> 00:08:33,799
+Justin Charles: One vector is like the river guide to the content from all of these people.
+
+162
+00:08:34,919 --> 00:08:39,320
+Justin Charles: Maybe another version is you can create your own tribunal.
+
+163
+00:08:39,320 --> 00:08:42,200
+Justin Charles: So I guess I can pull up Jack's slides as well.
+
+164
+00:08:42,200 --> 00:08:48,080
+Justin Charles: We've done some little mock ups, but maybe in this chat box you could click like, hey, I want to have a conversation about this.
+
+165
+00:08:48,080 --> 00:08:51,480
+Justin Charles: And I'm going to click like, I want to be Alan Watson Ram Dass, right?
+
+166
+00:08:51,720 --> 00:08:58,430
+Justin Charles: And Then it will only refer to like those two pieces of content or you know, respond and then is it a river guide?
+
+167
+00:08:58,430 --> 00:08:59,510
+Justin Charles: Is it Alan's voice?
+
+168
+00:08:59,510 --> 00:09:01,710
+Justin Charles: Like those are all the things we're kind of figuring out.
+
+169
+00:09:02,350 --> 00:09:06,750
+Justin Charles: And then the last thing that we have here is we just have this quick search feature.
+
+170
+00:09:06,830 --> 00:09:15,070
+Justin Charles: So you can search for any piece of content and it will search semantically so not just for keywords.
+
+171
+00:09:15,070 --> 00:09:17,710
+Justin Charles: So it's looking for like the semantic relevance.
+
+172
+00:09:18,350 --> 00:09:22,110
+Justin Charles: So for example, there's this very famous Alan Watts story called the maybe story.
+
+173
+00:09:23,590 --> 00:09:28,310
+Justin Charles: And you know, he uses the word maybe in the story, but it's not explicitly called the maybe story anywhere.
+
+174
+00:09:28,470 --> 00:09:35,910
+Justin Charles: So I use this as an example because it's really like a, it's a story about a Chinese man and his son, but it's not called the maybe story.
+
+175
+00:09:37,910 --> 00:09:38,950
+Justin Charles: So that's what we have.
+
+176
+00:09:40,070 --> 00:10:06,110
+Justin Charles: And like I said, where we're going is we want to make this multi guru with much richer, much broader set of experiences and like a very slick consumer facing UI and probably an app that's really kind of like designed to be almost like a shared media platform.
+
+177
+00:10:07,870 --> 00:10:08,510
+Daniel Shanklin: Yep.
+
+178
+00:10:08,750 --> 00:10:12,190
+Daniel Shanklin: Okay, that's a great intro for it.
+
+179
+00:10:14,280 --> 00:10:17,560
+Daniel Shanklin: What's like one thing you had on your mind that you thought I could help with?
+
+180
+00:10:18,120 --> 00:10:18,920
+Daniel Shanklin: Anything in particular?
+
+181
+00:10:19,720 --> 00:10:32,120
+Justin Charles: I think what would be helpful is to like understand better like what your maybe strengths are because then we can figure out where it makes most sense to include you in it.
+
+182
+00:10:32,600 --> 00:10:33,000
+Daniel Shanklin: Sure.
+
+183
+00:10:34,520 --> 00:10:37,920
+Daniel Shanklin: The thing I was the strongest at is going away software engineering.
+
+184
+00:10:37,920 --> 00:10:41,200
+Daniel Shanklin: Bye bye, adios, won't need us anymore.
+
+185
+00:10:42,160 --> 00:10:44,720
+Daniel Shanklin: So yeah, there you go.
+
+186
+00:10:45,440 --> 00:10:45,840
+Justin Charles: So.
+
+187
+00:10:47,200 --> 00:10:49,120
+Daniel Shanklin: But I've never rested on that.
+
+188
+00:10:49,520 --> 00:10:51,680
+Daniel Shanklin: So I was a trader at a hedge fund.
+
+189
+00:10:51,680 --> 00:10:53,440
+Daniel Shanklin: I've been an accountant at a hedge fund.
+
+190
+00:10:53,840 --> 00:10:57,280
+Daniel Shanklin: I've done startups, I did ticket arbitrage in Vegas.
+
+191
+00:10:57,280 --> 00:11:01,680
+Daniel Shanklin: So like I'm the weird guy who's like let's just go make it up and let's see what happens.
+
+192
+00:11:01,680 --> 00:11:03,960
+Daniel Shanklin: And so like AI is actually perfect for that.
+
+193
+00:11:03,960 --> 00:11:11,560
+Daniel Shanklin: And I love what you've already put together because I don't care how polished it is, it's just you just get started on an idea and you just keep going down that road.
+
+194
+00:11:13,400 --> 00:11:14,440
+Daniel Shanklin: Nerd talk though.
+
+195
+00:11:14,440 --> 00:11:23,560
+Daniel Shanklin: I have studied AI at a couple different grad programs so like I understand how it works underneath the hood, like why you would want to choose a specific type of rag technology.
+
+196
+00:11:23,880 --> 00:11:26,880
+Daniel Shanklin: Here's one we can remember this for the recording.
+
+197
+00:11:26,880 --> 00:11:27,880
+Daniel Shanklin: Is anybody recording this?
+
+198
+00:11:27,880 --> 00:11:28,760
+Daniel Shanklin: I should be recording this.
+
+199
+00:11:28,760 --> 00:11:31,800
+Justin Charles: Yeah, I think Collins note taker is recording it.
+
+200
+00:11:32,290 --> 00:11:32,450
+Daniel Shanklin: Sure.
+
+201
+00:11:32,450 --> 00:11:33,570
+Collin Bird - AIC: I'M recording it, Daniel.
+
+202
+00:11:33,730 --> 00:11:34,450
+Daniel Shanklin: Thank you, man.
+
+203
+00:11:34,530 --> 00:11:40,210
+Daniel Shanklin: Okay, so like, there's a reverse rank fusion rrf.
+
+204
+00:11:40,210 --> 00:11:46,010
+Daniel Shanklin: So when you do search, you don't just search using vectorization, but you use three different search types.
+
+205
+00:11:46,010 --> 00:11:53,170
+Daniel Shanklin: So you got like keyword search, you got your dense vector, and then you have a sparse vector, which we learned Google figured out from PageRank.
+
+206
+00:11:53,410 --> 00:11:57,250
+Daniel Shanklin: And then once you combine all those three, what happens is it returns the top results.
+
+207
+00:11:57,870 --> 00:12:02,830
+Daniel Shanklin: The computer looks at those and goes, actually, the best result based on the top five here is actually number three.
+
+208
+00:12:02,990 --> 00:12:04,310
+Daniel Shanklin: And then it puts that to the top.
+
+209
+00:12:04,310 --> 00:12:05,950
+Daniel Shanklin: All of this happening in milliseconds.
+
+210
+00:12:06,110 --> 00:12:10,350
+Daniel Shanklin: To me, to win an AI, you have to do that stuff, right?
+
+211
+00:12:10,430 --> 00:12:12,670
+Daniel Shanklin: Because everyone else is going to make the same app.
+
+212
+00:12:12,990 --> 00:12:15,750
+Daniel Shanklin: So it's like, if you can really nail that part of it.
+
+213
+00:12:15,750 --> 00:12:17,550
+Daniel Shanklin: Have you ever used Perplexity, for example?
+
+214
+00:12:19,630 --> 00:12:20,110
+Jack Quinlan: Yeah.
+
+215
+00:12:22,350 --> 00:12:23,590
+Daniel Shanklin: It'S my personal favorite.
+
+216
+00:12:23,590 --> 00:12:24,430
+Daniel Shanklin: It's super fast.
+
+217
+00:12:24,430 --> 00:12:25,710
+Daniel Shanklin: It's one of the most accurate.
+
+218
+00:12:26,020 --> 00:12:27,500
+Daniel Shanklin: They just figured out that part of it.
+
+219
+00:12:27,500 --> 00:12:30,660
+Daniel Shanklin: And so, like, an app that's engaging is going to be really quick.
+
+220
+00:12:30,900 --> 00:12:34,020
+Daniel Shanklin: I'm not claiming everything I build is quick, but I do think that's true.
+
+221
+00:12:35,220 --> 00:12:35,540
+Justin Charles: So.
+
+222
+00:12:35,540 --> 00:12:36,900
+Justin Charles: No, that's great background.
+
+223
+00:12:37,140 --> 00:12:38,580
+Justin Charles: So maybe a little more here.
+
+224
+00:12:39,140 --> 00:12:43,460
+Justin Charles: So what we did was Mark gave us like a raw.
+
+225
+00:12:44,980 --> 00:12:48,580
+Justin Charles: Mark gave us the RAW MP3s and the videos.
+
+226
+00:12:49,060 --> 00:12:53,995
+Justin Charles: And then what we did was we ran it through Amazon Transcribe.
+
+227
+00:12:53,995 --> 00:12:55,240
+Justin Charles: So, so first things first.
+
+228
+00:12:55,240 --> 00:12:57,560
+Justin Charles: Like, I'm primarily.
+
+229
+00:12:57,800 --> 00:13:03,640
+Justin Charles: I mean, I think everybody, like I'm Python Jack is Python and Typescript.
+
+230
+00:13:03,720 --> 00:13:07,080
+Justin Charles: So Next js, we're big fans of Next js.
+
+231
+00:13:07,240 --> 00:13:09,720
+Justin Charles: So what we did was we took all of the.
+
+232
+00:13:11,400 --> 00:13:16,680
+Justin Charles: We took all the RAW files and we made a Python pipeline to Amazon Transcribe them.
+
+233
+00:13:16,840 --> 00:13:25,910
+Justin Charles: And I don't know if you've ever seen an Amazon transcribe output, but it gives you like the text, so it responds in JSON and it gives you like the block of text.
+
+234
+00:13:25,910 --> 00:13:34,390
+Justin Charles: But then down below it gives you every word in the transcript with a millisecond timestamp of when in the content it occurred.
+
+235
+00:13:35,190 --> 00:13:39,110
+Justin Charles: And then from there what we did was we chunked it up into.
+
+236
+00:13:39,430 --> 00:13:40,430
+Justin Charles: I think it's like block.
+
+237
+00:13:40,430 --> 00:13:41,990
+Justin Charles: It's very unsophisticated.
+
+238
+00:13:41,990 --> 00:13:43,830
+Justin Charles: It's like blocks of like five sentences.
+
+239
+00:13:44,630 --> 00:13:47,110
+Justin Charles: And then we ingested that into we v8.
+
+240
+00:13:47,190 --> 00:13:57,870
+Justin Charles: So I played around a little bit, like very primitively with like different encoders and, or vectorizers and different databases.
+
+241
+00:13:57,870 --> 00:14:00,590
+Justin Charles: So I tried like Elastic and some of Amazon stuff.
+
+242
+00:14:00,670 --> 00:14:01,030
+Jack Quinlan: Sure.
+
+243
+00:14:01,030 --> 00:14:01,390
+Daniel Shanklin: We.
+
+244
+00:14:01,550 --> 00:14:06,670
+Justin Charles: We was just like far and away the best So I think we found that.
+
+245
+00:14:07,310 --> 00:14:10,190
+Justin Charles: I'm trying to remember the name of the vectorizer we used.
+
+246
+00:14:11,150 --> 00:14:11,790
+Justin Charles: Is it.
+
+247
+00:14:11,790 --> 00:14:13,310
+Justin Charles: It's the random Man.
+
+248
+00:14:13,310 --> 00:14:14,710
+Justin Charles: I can't even remember Jack.
+
+249
+00:14:14,710 --> 00:14:15,750
+Justin Charles: Do you remember what it's called?
+
+250
+00:14:15,750 --> 00:14:17,610
+Jack Quinlan: I can, I can pull it up.
+
+251
+00:14:18,410 --> 00:14:19,130
+Justin Charles: I don't remember.
+
+252
+00:14:19,130 --> 00:14:27,370
+Justin Charles: Anyway, we found like the a vector that worked pretty well and then we chunked it into sections of five sentences and then we put that into eviate.
+
+253
+00:14:27,930 --> 00:14:35,930
+Justin Charles: And then like we use LangChain to build an agent that's basically like, you're Samantha, you're Alan Watts's river guide.
+
+254
+00:14:36,090 --> 00:14:41,210
+Justin Charles: You know, here's an incoming query and then we literally just send that query straight to.
+
+255
+00:14:42,180 --> 00:14:42,660
+Justin Charles: Straight to.
+
+256
+00:14:44,660 --> 00:14:49,140
+Justin Charles: Straight to weaviate, which has like a semantic and keyword engine.
+
+257
+00:14:49,620 --> 00:14:50,340
+Daniel Shanklin: Yep.
+
+258
+00:14:50,580 --> 00:15:01,060
+Justin Charles: And then it responds with like the end most relevant content and we return answer.
+
+259
+00:15:01,460 --> 00:15:15,600
+Justin Charles: So everything you're talking about is something that we've spent like, basically we spent as much time as I explained, which is like probably maybe the full working week equivalent of like one or two weeks.
+
+260
+00:15:16,400 --> 00:15:18,480
+Justin Charles: And I'd say like what Jack is building now.
+
+261
+00:15:18,800 --> 00:15:20,240
+Justin Charles: And it's relative by the way.
+
+262
+00:15:20,560 --> 00:15:21,120
+Justin Charles: What's that?
+
+263
+00:15:21,120 --> 00:15:22,720
+Daniel Shanklin: Yeah, it is hard, by the way.
+
+264
+00:15:22,720 --> 00:15:25,360
+Daniel Shanklin: Like, yeah, if you struggle with it, everybody is.
+
+265
+00:15:25,440 --> 00:15:26,920
+Justin Charles: So yeah, I mean, I was surprised.
+
+266
+00:15:26,920 --> 00:15:28,480
+Justin Charles: Like, I tried it.
+
+267
+00:15:28,480 --> 00:15:29,200
+Justin Charles: So I tried.
+
+268
+00:15:29,280 --> 00:15:31,280
+Justin Charles: I guess I also tried like the.
+
+269
+00:15:31,280 --> 00:15:36,400
+Justin Charles: I think OpenAI has something where you just give them the content and then like they index it and like it was total garbage.
+
+270
+00:15:36,560 --> 00:15:36,820
+Justin Charles: And.
+
+271
+00:15:36,890 --> 00:15:40,810
+Justin Charles: And then Elastic was very bad because they are trying to do this BM25.
+
+272
+00:15:40,810 --> 00:15:42,330
+Justin Charles: It was horrifically bad.
+
+273
+00:15:42,650 --> 00:15:48,570
+Justin Charles: Then I tried Amazon's Knowledge graph where they have it in Bedrock so you can just take it from S3.
+
+274
+00:15:48,730 --> 00:15:49,690
+Justin Charles: And that was bad.
+
+275
+00:15:50,650 --> 00:15:53,610
+Justin Charles: Then we tried weaviate and I was like, wow, that's actually really good.
+
+276
+00:15:54,810 --> 00:15:56,090
+Justin Charles: It just works really well.
+
+277
+00:15:56,090 --> 00:15:57,770
+Justin Charles: But I didn't spend a lot of time on it.
+
+278
+00:15:58,170 --> 00:16:11,500
+Justin Charles: Then Jack really built out the UI and the interface where we're at right now is Jack is just Claude coding like a multi ported version of the Python pipeline and the interface.
+
+279
+00:16:11,660 --> 00:16:13,980
+Justin Charles: And that probably shouldn't take that long.
+
+280
+00:16:14,140 --> 00:16:21,180
+Justin Charles: But everything that you just explained is like stuff that we know nothing about and also probably where we can make it better.
+
+281
+00:16:23,180 --> 00:16:27,900
+Daniel Shanklin: So yeah, here's where it gets, here's where AI gets crazy, right?
+
+282
+00:16:27,900 --> 00:16:31,180
+Daniel Shanklin: Like, all I have to do is tip you off to a couple URLs and you guys are off.
+
+283
+00:16:31,800 --> 00:16:33,240
+Daniel Shanklin: So like I shared one just now.
+
+284
+00:16:33,320 --> 00:16:35,560
+Daniel Shanklin: It's a paper put out by Google about a month or two ago.
+
+285
+00:16:35,800 --> 00:16:44,440
+Daniel Shanklin: They talk about how dense vectorization or the typical embedding trick that most people have been using for years, it actually doesn't work past, like, a hundred rows, which is crazy.
+
+286
+00:16:44,440 --> 00:16:45,960
+Daniel Shanklin: But, like, they proved it.
+
+287
+00:16:45,960 --> 00:16:53,320
+Daniel Shanklin: And so that's why you have to get into these, like we call, ensemble techniques, where you use multiple search techniques at the same time.
+
+288
+00:16:54,200 --> 00:16:56,560
+Daniel Shanklin: I'm happy to share my algorithm that I use for that.
+
+289
+00:16:56,560 --> 00:16:57,720
+Daniel Shanklin: I mean, it's not worth anything.
+
+290
+00:16:58,090 --> 00:17:00,290
+Daniel Shanklin: but, like, literally, I.
+
+291
+00:17:00,290 --> 00:17:09,010
+Daniel Shanklin: This problem of search is everywhere because AI creates unlimited data, but it doesn't actually do a great job of, like, pulling it back.
+
+292
+00:17:09,010 --> 00:17:10,329
+Daniel Shanklin: That's the thing it's terrible at.
+
+293
+00:17:10,490 --> 00:17:14,410
+Daniel Shanklin: The other thing I would mention is, so here at aic, we have a.
+
+294
+00:17:14,569 --> 00:17:17,290
+Daniel Shanklin: When this call is done, we got a call eater.
+
+295
+00:17:17,290 --> 00:17:18,530
+Daniel Shanklin: It'll go out and grab this.
+
+296
+00:17:18,530 --> 00:17:22,210
+Daniel Shanklin: It's a web hook that comes from Fireflies, sends it over to our server.
+
+297
+00:17:22,210 --> 00:17:24,010
+Daniel Shanklin: But the other thing I added was a glossary.
+
+298
+00:17:24,519 --> 00:17:36,119
+Daniel Shanklin: And so this glossary has all these different entities that it can use so that when we get that call in, if he says spy, that's spy SP5, you know, S&P500.
+
+299
+00:17:36,679 --> 00:17:37,319
+Justin Charles: Not like.
+
+300
+00:17:37,799 --> 00:17:39,839
+Daniel Shanklin: Like a spy with a looking glass, you know?
+
+301
+00:17:39,839 --> 00:17:42,279
+Daniel Shanklin: And so it understands these things based on our glossary.
+
+302
+00:17:42,279 --> 00:17:45,079
+Daniel Shanklin: I was curious if y' all had a glossary during transcription.
+
+303
+00:17:45,879 --> 00:17:46,959
+Justin Charles: No, we.
+
+304
+00:17:46,959 --> 00:17:50,770
+Justin Charles: We literally Amazon transcribed it, which is fine.
+
+305
+00:17:51,010 --> 00:17:51,850
+Daniel Shanklin: I just thought I'd.
+
+306
+00:17:51,850 --> 00:17:58,050
+Daniel Shanklin: These are, like, when you're looking for that thing that takes it to the next level, this is kind of some of the stuff that I typically look for.
+
+307
+00:17:58,530 --> 00:17:58,970
+Daniel Shanklin: Yeah.
+
+308
+00:17:58,970 --> 00:17:59,410
+Daniel Shanklin: Myself.
+
+309
+00:17:59,410 --> 00:18:00,370
+Daniel Shanklin: And it's not like.
+
+310
+00:18:00,370 --> 00:18:01,970
+Daniel Shanklin: None of that is, like, out of the box.
+
+311
+00:18:02,290 --> 00:18:04,610
+Daniel Shanklin: It's kind of like how the pros are doing it.
+
+312
+00:18:04,610 --> 00:18:05,170
+Daniel Shanklin: That's all.
+
+313
+00:18:05,810 --> 00:18:06,690
+Daniel Shanklin: Yeah, I actually.
+
+314
+00:18:06,690 --> 00:18:10,050
+Daniel Shanklin: I actually built one, and I'll show you, and it's got a doc in there.
+
+315
+00:18:10,050 --> 00:18:10,450
+Daniel Shanklin: This is.
+
+316
+00:18:10,450 --> 00:18:11,490
+Daniel Shanklin: This is free of charge.
+
+317
+00:18:12,130 --> 00:18:12,810
+Daniel Shanklin: Here we go.
+
+318
+00:18:12,810 --> 00:18:14,250
+Daniel Shanklin: Watts Jet Intelligence.
+
+319
+00:18:14,250 --> 00:18:14,570
+Daniel Shanklin: Com.
+
+320
+00:18:14,570 --> 00:18:16,490
+Daniel Shanklin: Super simple Alan Watts Chat.
+
+321
+00:18:16,490 --> 00:18:24,270
+Daniel Shanklin: It's very similar to what y' all did, but inside of there is a technology page, and you can go read about how I use loops and reinforcement learning.
+
+322
+00:18:24,830 --> 00:18:34,270
+Daniel Shanklin: And the way it works is you actually have Claude code, have a chat with your app, and then score it on how it's doing on a first pass.
+
+323
+00:18:34,270 --> 00:18:41,990
+Daniel Shanklin: And then you have it keep running until it boosts the system prompts to a better place, if that makes sense.
+
+324
+00:18:41,990 --> 00:18:46,590
+Daniel Shanklin: You're basically saying, I know you're supposed to be Watts, but you're not doing a very good job right now.
+
+325
+00:18:47,110 --> 00:18:47,310
+Justin Charles: Yeah.
+
+326
+00:18:47,310 --> 00:18:49,830
+Daniel Shanklin: You have this outside observer that keeps putting it through a loop.
+
+327
+00:18:49,910 --> 00:18:52,150
+Daniel Shanklin: I write about that here in this Document as well.
+
+328
+00:18:52,310 --> 00:18:53,430
+Daniel Shanklin: Anything else that.
+
+329
+00:18:53,750 --> 00:18:55,510
+Daniel Shanklin: I mean, I'm just kind of spitballing here.
+
+330
+00:18:55,750 --> 00:18:57,110
+Justin Charles: Yeah, I mean, I think.
+
+331
+00:19:01,190 --> 00:19:02,070
+Justin Charles: Well, one question.
+
+332
+00:19:02,390 --> 00:19:04,150
+Justin Charles: Like, you talked about rag.
+
+333
+00:19:04,230 --> 00:19:06,790
+Justin Charles: Like, have you spent.
+
+334
+00:19:06,790 --> 00:19:07,990
+Justin Charles: I'm sure you spent more than us.
+
+335
+00:19:07,990 --> 00:19:19,890
+Justin Charles: Like, if I were to say this is what we're building, what I just described, like, which database, and you alluded to the rag technique, but, I mean, we're debating, like, should we just nix weaviate?
+
+336
+00:19:19,890 --> 00:19:21,490
+Justin Charles: Have you tried postgres at all?
+
+337
+00:19:21,570 --> 00:19:26,690
+Daniel Shanklin: Like, yeah, we use postgres with PG Vector, which is there.
+
+338
+00:19:27,490 --> 00:19:31,170
+Daniel Shanklin: It's just a plugin that puts the vector over into a column.
+
+339
+00:19:31,810 --> 00:19:33,890
+Daniel Shanklin: That's what we use for 90% of the stuff.
+
+340
+00:19:34,290 --> 00:19:35,650
+Daniel Shanklin: I don't use pinecone.
+
+341
+00:19:35,650 --> 00:19:39,070
+Daniel Shanklin: I mean, I used it, like, a year and a half ago, but I just haven't had a needle.
+
+342
+00:19:39,380 --> 00:19:44,780
+Daniel Shanklin: It is my opinion that the more you put everything in the same server, the better off you are in the AI, which is.
+
+343
+00:19:44,780 --> 00:19:46,100
+Justin Charles: I want to get rid of weaviate.
+
+344
+00:19:46,660 --> 00:19:49,700
+Justin Charles: It's just, like, it works so well that I didn't want to mess with it again.
+
+345
+00:19:50,660 --> 00:19:53,980
+Justin Charles: So I'm wondering if you can help us, like, port the wat.
+
+346
+00:19:53,980 --> 00:19:59,860
+Justin Charles: Well, I mean, so what we could use your help with, I think, very obviously.
+
+347
+00:20:00,260 --> 00:20:03,500
+Justin Charles: And, like, maybe we just do it on the WhatsApp first, or.
+
+348
+00:20:03,500 --> 00:20:06,140
+Justin Charles: I mean, I'll leave this to Jack and to.
+
+349
+00:20:06,140 --> 00:20:15,340
+Justin Charles: To you, Daniel, but, like, if you can help us, maybe do a better job just nixing weate, getting it onto postgress.
+
+350
+00:20:15,980 --> 00:20:16,300
+Justin Charles: Sure.
+
+351
+00:20:16,300 --> 00:20:16,780
+Justin Charles: And then.
+
+352
+00:20:18,940 --> 00:20:31,320
+Justin Charles: And then, like, doing the rag and the chunking and the vectorization and all that stuff really well, that would be extremely helpful because I think, like.
+
+353
+00:20:31,320 --> 00:20:41,000
+Justin Charles: And, you know, Jack, you know, Jax is very strong at, you know, building next JS code that works and is clean and easy to use.
+
+354
+00:20:41,000 --> 00:20:42,720
+Justin Charles: Like, that's very clearly his strength.
+
+355
+00:20:44,480 --> 00:20:48,480
+Justin Charles: I'd say, like, you definitely have a very important piece of it that, like, I don't have.
+
+356
+00:20:48,640 --> 00:20:51,600
+Justin Charles: And Jack is kind of learning, so.
+
+357
+00:20:53,120 --> 00:20:54,040
+Daniel Shanklin: Yeah, well, I.
+
+358
+00:20:54,040 --> 00:20:56,400
+Daniel Shanklin: It's funny because we have another person.
+
+359
+00:20:57,050 --> 00:21:00,650
+Daniel Shanklin: So Collins Co. Swallowed me whole, which was.
+
+360
+00:21:00,650 --> 00:21:01,610
+Daniel Shanklin: Which was fantastic.
+
+361
+00:21:01,610 --> 00:21:02,650
+Daniel Shanklin: I needed some sun.
+
+362
+00:21:03,450 --> 00:21:07,770
+Daniel Shanklin: But one of our senior AI engineers at AIC has been with me for over a year and a half.
+
+363
+00:21:08,010 --> 00:21:09,450
+Daniel Shanklin: He's better at front end than I am.
+
+364
+00:21:09,850 --> 00:21:11,290
+Daniel Shanklin: He will do next JS faster.
+
+365
+00:21:11,290 --> 00:21:17,290
+Daniel Shanklin: So I went the other route and was like, what are all the back end things about AI that you really need to master to really, like, get this right?
+
+366
+00:21:18,170 --> 00:21:21,930
+Daniel Shanklin: And as you know, it's like, everyone's like, oh, it's a solved problem.
+
+367
+00:21:21,930 --> 00:21:22,890
+Daniel Shanklin: No, it's Just the next.
+
+368
+00:21:23,530 --> 00:21:24,730
+Daniel Shanklin: We have this next problem now.
+
+369
+00:21:24,810 --> 00:21:27,290
+Daniel Shanklin: We get the next year of our lives to figure out how to get AI to work.
+
+370
+00:21:27,930 --> 00:21:32,850
+Daniel Shanklin: So I'd be happy to help with that if you want to do it over GitHub.
+
+371
+00:21:32,850 --> 00:21:37,770
+Daniel Shanklin: That's a really easy way sometimes if I want to share ideas with somebody else.
+
+372
+00:21:37,770 --> 00:21:38,890
+Daniel Shanklin: I'll give you a quick example.
+
+373
+00:21:39,770 --> 00:21:40,530
+Daniel Shanklin: I shit you not.
+
+374
+00:21:40,530 --> 00:21:43,730
+Daniel Shanklin: I have a house in Boone and I'm renting it to this guy who's a software developer.
+
+375
+00:21:43,730 --> 00:21:46,810
+Daniel Shanklin: So he and I made a repo of the house.
+
+376
+00:21:47,370 --> 00:21:47,850
+Justin Charles: Okay.
+
+377
+00:21:47,850 --> 00:21:49,690
+Daniel Shanklin: And then went back and forth and we had a contract.
+
+378
+00:21:50,730 --> 00:21:52,970
+Daniel Shanklin: So his cursor versus my Claude code.
+
+379
+00:21:54,900 --> 00:21:56,020
+Daniel Shanklin: This is the new way we work.
+
+380
+00:21:57,540 --> 00:22:02,340
+Daniel Shanklin: If you didn't want to give me your data, but you just wanted to give me the architecture, you could create a new repo and stick it in there.
+
+381
+00:22:02,340 --> 00:22:03,260
+Daniel Shanklin: Be like, here, Daniel.
+
+382
+00:22:03,260 --> 00:22:03,540
+Daniel Shanklin: Yeah.
+
+383
+00:22:03,540 --> 00:22:09,700
+Justin Charles: No, we can add you to the Watts GitHub and you can take a look at it, because as long as that's why I'm calling.
+
+384
+00:22:09,780 --> 00:22:14,260
+Justin Charles: Colin is involved in the whole Watts project anyway, so I don't know why that would be a problem.
+
+385
+00:22:15,140 --> 00:22:15,700
+Justin Charles: Okay.
+
+386
+00:22:16,180 --> 00:22:17,860
+Daniel Shanklin: Hey, one other thing I can tell you about.
+
+387
+00:22:18,340 --> 00:22:22,300
+Daniel Shanklin: We built a piece of software here called Artemis, and it's not worth anything.
+
+388
+00:22:22,300 --> 00:22:33,260
+Daniel Shanklin: But what it does, it takes in all of your AI calls from anywhere and then it logs them all, by app and by user, and then it sends them out to either anthropic OpenAI or open router.
+
+389
+00:22:33,260 --> 00:22:34,380
+Daniel Shanklin: And so it's a counter.
+
+390
+00:22:35,420 --> 00:22:37,340
+Daniel Shanklin: It's an odometer for your AI.
+
+391
+00:22:37,500 --> 00:22:45,340
+Daniel Shanklin: You may need something like that because I was reading your contract that you're going to have to split up for this philosophy project based on tokens.
+
+392
+00:22:45,340 --> 00:22:45,660
+Daniel Shanklin: Right.
+
+393
+00:22:46,300 --> 00:22:46,780
+Justin Charles: Yeah.
+
+394
+00:22:46,940 --> 00:22:56,610
+Justin Charles: So far we've only used bedrock just for the convenience of, like, knowing that there's no logging and all that stuff going on, or, like, model training.
+
+395
+00:22:57,090 --> 00:22:57,730
+Justin Charles: Very smart.
+
+396
+00:22:58,450 --> 00:22:58,890
+Justin Charles: Yeah.
+
+397
+00:22:58,890 --> 00:22:59,530
+Justin Charles: Do you have a.
+
+398
+00:22:59,530 --> 00:23:02,930
+Daniel Shanklin: Do you have a middleware that captures your tokens or logs it yet?
+
+399
+00:23:04,130 --> 00:23:07,890
+Justin Charles: We've wrote some of that by hand for Permian purposes.
+
+400
+00:23:08,130 --> 00:23:14,530
+Justin Charles: So, like, the short answer is like, kind of, but very primitively, but that would be very helpful if you can.
+
+401
+00:23:14,530 --> 00:23:15,810
+Justin Charles: If you can share that.
+
+402
+00:23:16,850 --> 00:23:22,210
+Daniel Shanklin: Yeah, I mean, it's really just a technique, and that's what I'd be happy to share for sure.
+
+403
+00:23:23,410 --> 00:23:23,970
+Daniel Shanklin: Okay.
+
+404
+00:23:25,410 --> 00:23:26,450
+Daniel Shanklin: And you're in Dallas.
+
+405
+00:23:26,930 --> 00:23:27,410
+Justin Charles: Yes.
+
+406
+00:23:27,890 --> 00:23:28,770
+Jack Quinlan: Okay, cool.
+
+407
+00:23:28,770 --> 00:23:30,610
+Daniel Shanklin: And Jack, you're in dc, Is that right?
+
+408
+00:23:30,850 --> 00:23:31,770
+Jack Quinlan: DC for.
+
+409
+00:23:31,770 --> 00:23:33,250
+Jack Quinlan: Yeah, two weeks from Thursday.
+
+410
+00:23:33,330 --> 00:23:35,970
+Jack Quinlan: I'll be in Dallas and then they're moving you out.
+
+411
+00:23:35,970 --> 00:23:36,530
+Daniel Shanklin: All right.
+
+412
+00:23:36,610 --> 00:23:37,090
+Collin Bird - AIC: Yeah.
+
+413
+00:23:37,410 --> 00:23:38,330
+Daniel Shanklin: Were you a lobbyist?
+
+414
+00:23:38,330 --> 00:23:39,210
+Daniel Shanklin: We on the X Files?
+
+415
+00:23:39,210 --> 00:23:39,890
+Daniel Shanklin: What are we doing there?
+
+416
+00:23:41,330 --> 00:23:42,690
+Jack Quinlan: No, I went to school here.
+
+417
+00:23:44,040 --> 00:23:44,320
+Jack Quinlan: Cool.
+
+418
+00:23:44,320 --> 00:23:45,000
+Jack Quinlan: I worked.
+
+419
+00:23:45,080 --> 00:23:47,240
+Jack Quinlan: Got my first job here.
+
+420
+00:23:47,320 --> 00:23:53,720
+Jack Quinlan: That's where I met Justin and yeah, pulled me over to Permian, which I'm super excited about.
+
+421
+00:23:53,960 --> 00:23:54,840
+Jack Quinlan: Okay, cool.
+
+422
+00:23:55,880 --> 00:23:56,720
+Daniel Shanklin: All right, well, I.
+
+423
+00:23:56,720 --> 00:24:11,200
+Daniel Shanklin: Look, I think you guys have done a really, I think you've done a really interesting job with the foldering and I think this is like, I don't know why other people haven't figured out this UX yet, but if your chats don't have folders like that, I don't know how you're supposed to keep up with this.
+
+424
+00:24:11,590 --> 00:24:12,310
+Daniel Shanklin: Is that crazy?
+
+425
+00:24:12,630 --> 00:24:13,710
+Justin Charles: So that's all Jack?
+
+426
+00:24:13,710 --> 00:24:15,670
+Justin Charles: I think, I think it's really good, honestly.
+
+427
+00:24:15,750 --> 00:24:17,590
+Justin Charles: Yeah, I think it's really impressive.
+
+428
+00:24:19,510 --> 00:24:19,910
+Justin Charles: So.
+
+429
+00:24:20,230 --> 00:24:21,030
+Justin Charles: Yeah, I agree.
+
+430
+00:24:21,030 --> 00:24:22,870
+Justin Charles: How about, how about we add you.
+
+431
+00:24:22,870 --> 00:24:23,230
+Justin Charles: Thank you.
+
+432
+00:24:23,230 --> 00:24:26,950
+Justin Charles: How about we add you to the Watts GitHub and then we'll add you to the.
+
+433
+00:24:27,190 --> 00:24:41,140
+Justin Charles: We haven't created the philosophy one yet, but we'll add it, we'll add you to it and then you can take a look and like, you know, clog code through our stuff and just give us some.
+
+434
+00:24:41,300 --> 00:24:45,140
+Justin Charles: You we can find another time for all of us to hop back on.
+
+435
+00:24:45,300 --> 00:24:52,100
+Justin Charles: But, you know, for you to maybe just teach us better ways to do this.
+
+436
+00:24:52,660 --> 00:24:53,220
+Collin Bird - AIC: No problem.
+
+437
+00:24:55,060 --> 00:24:56,340
+Daniel Shanklin: I'll be upfront about something.
+
+438
+00:24:56,740 --> 00:24:58,020
+Daniel Shanklin: I've drank the cold.
+
+439
+00:24:58,180 --> 00:25:00,060
+Daniel Shanklin: Just as many have drank the Watts Kool Aid.
+
+440
+00:25:00,060 --> 00:25:01,500
+Daniel Shanklin: I've drank the Claude code Kool Aid.
+
+441
+00:25:01,500 --> 00:25:06,740
+Daniel Shanklin: So I really don't write code much anymore if that's an expectation, you know.
+
+442
+00:25:06,740 --> 00:25:08,940
+Justin Charles: No, no, I, I clog code.
+
+443
+00:25:08,940 --> 00:25:18,220
+Justin Charles: I mean, I used to write a lot and like review a lot and now I cloud code and I think Jack is like increasingly cloud coding more so.
+
+444
+00:25:18,220 --> 00:25:21,220
+Justin Charles: Yeah, I mean we're, we're in the same boat.
+
+445
+00:25:21,220 --> 00:25:36,910
+Justin Charles: And you know, I think like also sharing, you know, what you learned on that, like, we're pretty primitive inside of premium just because we have so many compliance constraints that like, it's very hard to like, you know, just throw up MCPS and stuff.
+
+446
+00:25:38,750 --> 00:25:48,270
+Justin Charles: But you know, I think especially for this, like, and we're all ears for any tips and what I was telling Jack is I think we should make.
+
+447
+00:25:48,590 --> 00:25:54,990
+Justin Charles: I don't know if you've used it, but I guess everyone loves linear now, which is like a better like JIRA project board.
+
+448
+00:25:54,990 --> 00:26:07,430
+Justin Charles: And so I'm kind of feeling like the way to do it is to just have a linear board and to basically spec out and build all of the tickets and then just let Claude kind of rip through them and review them and make changes.
+
+449
+00:26:07,430 --> 00:26:09,110
+Justin Charles: I don't know how you're doing that now.
+
+450
+00:26:09,590 --> 00:26:10,950
+Daniel Shanklin: You're 100% right.
+
+451
+00:26:10,950 --> 00:26:16,710
+Daniel Shanklin: So for my own personal projects, I built my own linear so that like it's all local, it's just fast.
+
+452
+00:26:17,030 --> 00:26:24,230
+Daniel Shanklin: But for AIC stuff, we actually use GitHub issues and projects and then we build a custom MCP that reads and writes to those.
+
+453
+00:26:24,870 --> 00:26:30,260
+Daniel Shanklin: What this means is that we don't have to maintain external software for project management.
+
+454
+00:26:30,260 --> 00:26:33,300
+Daniel Shanklin: And I'll just literally be like, go rip on this whole project.
+
+455
+00:26:33,300 --> 00:26:36,820
+Daniel Shanklin: And it's like, you know, so pretty impressive.
+
+456
+00:26:36,820 --> 00:26:41,460
+Justin Charles: So we use GitHub projects as well for Permian and for Watts.
+
+457
+00:26:41,700 --> 00:26:46,060
+Justin Charles: So maybe we just keep it there and like, if you'd be game to, you know.
+
+458
+00:26:46,060 --> 00:26:46,340
+Daniel Shanklin: Sure.
+
+459
+00:26:46,580 --> 00:26:47,620
+Daniel Shanklin: I do love linear.
+
+460
+00:26:47,620 --> 00:26:48,460
+Daniel Shanklin: Don't get me wrong.
+
+461
+00:26:48,460 --> 00:26:50,180
+Daniel Shanklin: If you decide to go, I'm just.
+
+462
+00:26:50,180 --> 00:26:52,980
+Justin Charles: Not a big fan of like having eight tools if I can help it, you know.
+
+463
+00:26:53,290 --> 00:26:53,530
+Justin Charles: Agree.
+
+464
+00:26:54,650 --> 00:27:00,170
+Justin Charles: So like, maybe we'll just stick to GitHub, but if, you know, we should just schedule another 30 minutes where we go through all things tech.
+
+465
+00:27:00,170 --> 00:27:05,050
+Justin Charles: And if you want to show Jack and I how you're doing the GitHub MCP so we can do the same.
+
+466
+00:27:05,050 --> 00:27:19,930
+Justin Charles: Like, I think probably the first thing is just like educating us on how we could be more efficient with our engineering time would probably be the first step and then second step would be teaching us how to do rag really well.
+
+467
+00:27:20,640 --> 00:27:21,680
+Daniel Shanklin: Yeah, I'd be happy to.
+
+468
+00:27:21,840 --> 00:27:27,360
+Daniel Shanklin: So just kind of in closing, we'll do like mafia here.
+
+469
+00:27:27,600 --> 00:27:29,200
+Daniel Shanklin: I'd be happy to help you guys with this.
+
+470
+00:27:29,360 --> 00:27:33,280
+Daniel Shanklin: My thing is I'd started this month, it's been around for a year.
+
+471
+00:27:33,680 --> 00:27:38,480
+Daniel Shanklin: But I just were one of those robots, you know that one X Neo.
+
+472
+00:27:39,440 --> 00:27:40,160
+Jack Quinlan: Yeah, yeah.
+
+473
+00:27:40,800 --> 00:27:48,680
+Daniel Shanklin: But I don't have much to clean, so I'm starting a non profit where I put the robot in the nonprofit and then I have people in tech take it to people's houses and like clean up.
+
+474
+00:27:48,680 --> 00:27:50,960
+Daniel Shanklin: So it's like a disabled vet or a single mom or something.
+
+475
+00:27:50,960 --> 00:27:54,300
+Daniel Shanklin: You know, it's like a new form of, you know, volunteerism.
+
+476
+00:27:54,300 --> 00:27:57,220
+Daniel Shanklin: And it's easy to get volunteers because they all want to work with the robot.
+
+477
+00:27:57,220 --> 00:27:57,500
+Daniel Shanklin: Right.
+
+478
+00:27:57,980 --> 00:28:00,940
+Daniel Shanklin: So just cold pitch, that's what I'm working on.
+
+479
+00:28:01,420 --> 00:28:04,420
+Daniel Shanklin: You know, anybody wants to help me out with that in the DFW area, that's fine.
+
+480
+00:28:04,420 --> 00:28:08,540
+Daniel Shanklin: But I love to trade on that and say, yeah, let me help you out with your Project.
+
+481
+00:28:08,540 --> 00:28:09,100
+Daniel Shanklin: No problem.
+
+482
+00:28:09,180 --> 00:28:09,740
+Justin Charles: Okay.
+
+483
+00:28:10,140 --> 00:28:10,580
+Daniel Shanklin: Yeah.
+
+484
+00:28:10,580 --> 00:28:10,980
+Jack Quinlan: Awesome.
+
+485
+00:28:10,980 --> 00:28:13,660
+Justin Charles: What exactly do you need help with that with.
+
+486
+00:28:13,820 --> 00:28:14,940
+Justin Charles: With respect to that.
+
+487
+00:28:15,420 --> 00:28:20,140
+Daniel Shanklin: It's on the recording now, and you've heard of it, so, like, at some point, and it was like.
+
+488
+00:28:20,140 --> 00:28:21,300
+Daniel Shanklin: Like a Mafia bus.
+
+489
+00:28:21,300 --> 00:28:24,320
+Daniel Shanklin: At some point in the future, I sure.
+
+490
+00:28:24,320 --> 00:28:27,880
+Daniel Shanklin: I'm sure something will come up and you'll be like, oh, I know somebody doing that.
+
+491
+00:28:27,880 --> 00:28:28,920
+Daniel Shanklin: Yeah, that's okay.
+
+492
+00:28:31,320 --> 00:28:32,800
+Daniel Shanklin: And if I wake up and.
+
+493
+00:28:32,800 --> 00:28:33,080
+Daniel Shanklin: And.
+
+494
+00:28:33,080 --> 00:28:36,200
+Daniel Shanklin: And I've been suffocated, somebody.
+
+495
+00:28:36,200 --> 00:28:37,840
+Daniel Shanklin: One of y' all hacked it with your GitHub.
+
+496
+00:28:37,840 --> 00:28:38,280
+Daniel Shanklin: I swear.
+
+497
+00:28:41,080 --> 00:28:41,720
+Justin Charles: Got it.
+
+498
+00:28:43,480 --> 00:28:44,520
+Daniel Shanklin: Are you still hanging out?
+
+499
+00:28:44,520 --> 00:28:45,120
+Daniel Shanklin: He's busy.
+
+500
+00:28:45,120 --> 00:28:46,520
+Daniel Shanklin: He's got, like, six things going on.
+
+501
+00:28:46,840 --> 00:28:48,720
+Collin Bird - AIC: Yeah, I. I am still here.
+
+502
+00:28:48,720 --> 00:28:49,160
+Collin Bird - AIC: We just.
+
+503
+00:28:49,320 --> 00:28:51,400
+Collin Bird - AIC: We did a late lunch with our family, so.
+
+504
+00:28:52,650 --> 00:28:53,210
+Collin Bird - AIC: Wrapping up.
+
+505
+00:28:54,330 --> 00:28:54,810
+Justin Charles: All right.
+
+506
+00:28:54,890 --> 00:28:55,330
+Justin Charles: Yeah.
+
+507
+00:28:55,330 --> 00:28:55,610
+Daniel Shanklin: I think.
+
+508
+00:28:55,610 --> 00:28:56,570
+Justin Charles: You want us to do it for you?
+
+509
+00:28:58,250 --> 00:29:00,450
+Collin Bird - AIC: No, I think this is exactly what I wanted, kind of.
+
+510
+00:29:00,450 --> 00:29:02,050
+Collin Bird - AIC: You guys talk about the back end, right?
+
+511
+00:29:02,050 --> 00:29:06,810
+Collin Bird - AIC: Like, how you're chunking those files and talk the rag.
+
+512
+00:29:06,810 --> 00:29:10,890
+Collin Bird - AIC: Stuff that I don't know much about and best practices.
+
+513
+00:29:10,970 --> 00:29:12,450
+Collin Bird - AIC: So it's good.
+
+514
+00:29:12,450 --> 00:29:12,970
+Daniel Shanklin: Okay.
+
+515
+00:29:13,130 --> 00:29:15,690
+Collin Bird - AIC: I think we'll share the GitHub and do little meetings.
+
+516
+00:29:17,380 --> 00:29:17,860
+Daniel Shanklin: All right, cool.
+
+517
+00:29:17,860 --> 00:29:18,300
+Jack Quinlan: Sounds good.
+
+518
+00:29:18,300 --> 00:29:18,820
+Daniel Shanklin: Well, it's like.
+
+519
+00:29:18,820 --> 00:29:20,620
+Daniel Shanklin: It's like Elon said, there's no IP anymore.
+
+520
+00:29:20,620 --> 00:29:22,100
+Daniel Shanklin: There's just speed, so.
+
+521
+00:29:22,100 --> 00:29:22,740
+Justin Charles: Yeah, I know.
+
+522
+00:29:22,740 --> 00:29:30,020
+Justin Charles: I think that's the hard part is, like, I'm just trying to increasingly figure out how we do this with, like, kind of minimal humans.
+
+523
+00:29:31,300 --> 00:29:32,180
+Daniel Shanklin: Completely agree.
+
+524
+00:29:32,740 --> 00:29:33,220
+Justin Charles: Yeah.
+
+525
+00:29:33,300 --> 00:29:47,640
+Collin Bird - AIC: And we've talked to a couple other gurus that are trying to do their own thing with AI, so, like, obviously not that creative of a thing to do, but this is more about speed and getting three or four big names in one spot.
+
+526
+00:29:47,720 --> 00:29:50,120
+Collin Bird - AIC: And hopefully that gravity pulls everyone else in.
+
+527
+00:29:51,320 --> 00:29:52,520
+Daniel Shanklin: Yeah, absolutely.
+
+528
+00:29:53,960 --> 00:29:54,520
+Daniel Shanklin: Yep.
+
+529
+00:29:55,000 --> 00:29:55,720
+Daniel Shanklin: First the key.
+
+530
+00:29:55,720 --> 00:29:56,520
+Daniel Shanklin: First the egg.
+
+531
+00:29:56,520 --> 00:29:57,800
+Daniel Shanklin: I guess we'll go for it, gents.
+
+532
+00:29:58,200 --> 00:29:58,600
+Daniel Shanklin: So.
+
+533
+00:29:59,080 --> 00:29:59,640
+Collin Bird - AIC: All right.
+
+534
+00:30:00,120 --> 00:30:00,680
+Collin Bird - AIC: Exactly.
+
+535
+00:30:00,680 --> 00:30:01,400
+Daniel Shanklin: All right, thanks.
+
+536
+00:30:01,400 --> 00:30:02,040
+Justin Charles: Thanks, guys.
+
+537
+00:30:02,040 --> 00:30:02,800
+Justin Charles: Thanks, guys.
+
+538
+00:30:02,800 --> 00:30:03,160
+Justin Charles: See you.
+
+539
+00:30:04,120 --> 00:30:04,520
+Justin Charles: By.
+

@@ -34,9 +34,87 @@
 - Three-gate system: Form, Helpfulness, Engagement
 - Multi-dimensional testing to prevent regression/overfitting
 
-### Waiting On
-- Fireflies recording from Collin Bird
-- Once received, can define specific next steps
+### Full Transcript Notes
+
+**Recording received:** January 28, 2026
+
+#### Introductions & Background
+- Justin Charles: Lives in Dallas, went to Davidson College (knew Steph Curry's orbit)
+- Jack Quinlan: Joining from DC, moving to Dallas in 2 weeks
+- Daniel: 4 months at AIC, previously hedge fund trader/accountant, startups, ticket arbitrage in Vegas
+
+#### Daniel's Demo
+- Showed https://watts.jettaintelligence.com - similar Alan Watts chat concept
+- Technology page documents study loops and reinforcement learning approach
+- Uses Claude Code to score responses iteratively and boost system prompts
+
+#### Technical Discussion
+
+**Daniel's RAG expertise:**
+- Explained RRF (Reciprocal Rank Fusion) - combines keyword, dense vector, and sparse vector search
+- Shared Google paper showing dense vectorization breaks past ~100 rows
+- Ensemble techniques required for production quality
+- AIC uses PostgreSQL + PG Vector for 90% of work
+
+**On Weaviate vs Postgres:**
+- Justin: "Weaviate works really well, didn't want to mess with it"
+- Daniel: "My opinion - put everything in the same server, better for AI"
+- Justin: "Can you help us port from Weaviate to Postgres?"
+
+**On transcription:**
+- Justin: Using Amazon Transcribe, chunking into 5-sentence blocks
+- Daniel: "Do you have a glossary during transcription?"
+- Explained AIC's glossary system for entity recognition (e.g., "SPY" = S&P 500)
+- Glossary improves transcription accuracy for domain terms
+
+**On token tracking:**
+- Daniel: Built "Artemis" - middleware that logs all AI calls by app/user
+- Routes to Anthropic, OpenAI, or OpenRouter
+- "It's an odometer for your AI"
+- Justin: "That would be very helpful if you can share"
+
+#### Collaboration Model
+
+**GitHub-first workflow:**
+- Daniel: "I made a repo of my rental house with my tenant to negotiate the contract"
+- "Cursor vs Claude Code - this is the new way we work"
+- Agreement to add Daniel to watts-ai GitHub
+
+**Project management:**
+- Justin mentioned Linear, Daniel mentioned AIC uses GitHub Issues + Projects
+- Custom MCP reads/writes to GitHub Issues
+- "Literally be like, go rip on this whole project"
+
+#### Daniel's Ask: Rhea Impact
+
+> "I'd be happy to help you guys with this. My thing is I've started this month, been around for a year. But I just were one of those robots, you know that 1X Neo."
+
+Explained nonprofit model:
+- Put robot in nonprofit
+- Tech volunteers take it to homes (disabled vets, single moms)
+- "Easy to get volunteers because they all want to work with the robot"
+- Cold pitch: Help spread the word in DFW, he'll help with Philosophe project
+
+#### Next Steps Agreed
+
+1. Add Daniel to watts-ai GitHub repo
+2. Add Daniel to philosophe-ai repo when created
+3. Schedule 30-min tech session:
+   - GitHub MCP demo
+   - RAG/chunking/vectorization best practices
+   - Porting from Weaviate to Postgres
+4. Daniel to share:
+   - RRF hybrid search algorithm
+   - Artemis token tracking approach
+   - Study loop methodology
+
+#### Key Quotes
+
+> "It's like Elon said, there's no IP anymore. There's just speed." - Daniel
+
+> "The more you put everything in the same server, the better off you are in AI." - Daniel
+
+> "We're trying to figure out how we do this with minimal humans." - Justin
 
 ---
 
