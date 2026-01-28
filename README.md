@@ -128,9 +128,24 @@ Removing the brevity constraint and focusing on helpfulness improved scores from
 
 ---
 
-## Multi-Dimensional Testing
+## Multi-Dimensional Testing (Preventing Regression)
 
-To avoid overfitting to specific patterns, test cases cover multiple dimensions:
+**Critical insight:** A single aggregate score hides regressions. You can improve "helpfulness" while breaking "handles pushback" - and the average looks fine.
+
+### The Overfitting Problem
+
+If you only track one number (e.g., "85% pass rate"), you'll optimize for the easy cases while breaking the hard ones:
+
+```
+Version 1: 70% overall (but handles frustrated users well)
+Version 2: 85% overall (but now condescending on pushback)
+
+The aggregate improved, but you broke something important.
+```
+
+### The Solution: Dimension-Level Tracking
+
+Every test case is tagged with multiple dimensions:
 
 | Dimension | Examples |
 |-----------|----------|
@@ -139,16 +154,55 @@ To avoid overfitting to specific patterns, test cases cover multiple dimensions:
 | **Topic** | Existential, burnout, relationships, fear |
 | **Edge cases** | "Whatever", "...", "You tell me" |
 
-Each test case is tagged with dimensions, and we track pass rates per dimension to catch regressions:
+We track pass rates **per dimension**, not just overall:
 
 ```
 📈 RESULTS BY DIMENSION:
   frustrated      ████████░░ 4/5 (80%)
   vulnerable      █████████░ 5/6 (83%)
   hopeful         ██████████ 3/3 (100%)
-  pushback        ███████░░░ 3/4 (75%)
+  pushback        ███████░░░ 3/4 (75%)  ← Watch this one
   edge-case       ██████░░░░ 2/3 (67%)
 ```
+
+### Regression Rules
+
+The study loop enforces **per-dimension thresholds**:
+
+```typescript
+// If ANY dimension drops below 50%, it's a regression
+for (const [dim, { pass, fail }] of dimensionResults) {
+  const total = pass + fail;
+  if (total >= 3 && pass / total < 0.5) {
+    regressions.push(`Dimension "${dim}" below 50%`);
+  }
+}
+```
+
+This prevents the classic failure mode: "We improved the average by 10% but now it's mean to frustrated users."
+
+### Why This Matters
+
+Without dimension-level tracking:
+- You fix "sounds too preachy" by making responses shorter
+- Shorter responses score better on "no self-help clichés"
+- But now "vulnerable user" cases fail because there's no acknowledgment
+- Average looks good, but you broke empathy
+
+With dimension-level tracking:
+- You see "vulnerable" dimension dropped from 83% to 50%
+- Regression detected before merge
+- You find a fix that improves brevity WITHOUT breaking empathy
+
+### Avoiding Local Minima
+
+This is fundamentally about **preventing gradient descent from finding the wrong local minimum**.
+
+A single-score optimization will happily converge on "short, clever, dismissive" because it scores well on Form (no clichés) while failing on Helpfulness. That's a local minimum - locally optimal, globally useless.
+
+Multi-dimensional constraints force the optimization to find solutions that work **across all dimensions simultaneously**. You can't sacrifice empathy for brevity, or helpfulness for wit. The only valid solutions are ones that pass all gates.
+
+Think of each dimension as a constraint surface. The valid region is the **intersection** of all constraints - much smaller than any single constraint alone, but that's where the actually-good solutions live.
 
 ---
 
