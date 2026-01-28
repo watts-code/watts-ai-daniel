@@ -4,6 +4,7 @@ Project documentation and meeting notes for the Watts / Philosophe AI collaborat
 
 ## Contents
 
+- [Background](./background.md) - Project context, Mark Watts' existing projects, comparable models
 - [Meeting Log](./meetings.md) - Notes from project meetings
 - [Contacts](./contacts.md) - Key project contacts
 - [Open Questions](./open-questions.md) - Items needing resolution
