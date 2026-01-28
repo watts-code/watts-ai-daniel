@@ -14,7 +14,11 @@ Project documentation and meeting notes for the Watts / Philosophe AI collaborat
 ### Pending ❌
 - 30-min tech session (GitHub MCP demo, RAG walkthrough)
 - Weaviate → Postgres migration help
-- Artemis token tracking documentation
+
+### Just Added ✅
+- Artemis token tracking docs
+- Webhook catcher's mitt pattern
+- Entity glossary for transcription correction
 
 **[Full TODO list →](./todo.md)**
 

@@ -26,7 +26,9 @@
 
 ### Documentation to Share
 
-- [ ] **Artemis token tracking overview** — **Daniel** to document the middleware approach for logging AI calls by app/user
+- [x] **Artemis token tracking overview** — **Daniel** (see [rhea-impact.github.io/research/artemis-token-tracking](https://rhea-impact.github.io/research/artemis-token-tracking/))
+- [x] **Webhook catcher's mitt pattern** — **Daniel** (see [rhea-impact.github.io/research/webhook-catchers-mitt](https://rhea-impact.github.io/research/webhook-catchers-mitt/))
+- [x] **Entity glossary for transcription** — **Daniel** (updated in [transcription-glossary](https://rhea-impact.github.io/research/transcription-glossary/))
 - [ ] **Claude Code workflow tips** — **Daniel** to share how AIC uses Claude Code effectively
 
 ### From Permian Side
