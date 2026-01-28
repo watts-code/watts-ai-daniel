@@ -8,6 +8,7 @@ Project documentation and meeting notes for the Watts / Philosophe AI collaborat
 - [Meeting Log](./meetings.md) - Notes from project meetings
 - [Contacts](./contacts.md) - Key project contacts
 - [Open Questions](./open-questions.md) - Items needing resolution
+- [Resources](./resources.md) - Free tools and docs for AI development
 
 ---
 
