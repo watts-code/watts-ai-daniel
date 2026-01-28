@@ -143,19 +143,20 @@ export default function TechnologyPage() {
             </div>
 
             <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-6">
-              <h3 className="text-lg font-medium mb-3 text-amber-300">4. Brevity Enforcement</h3>
+              <h3 className="text-lg font-medium mb-3 text-amber-300">4. Helpfulness Over Brevity</h3>
               <p className="text-zinc-400 mb-4">
-                Watts&apos; best insights were often one-liners. We enforce a strict 1-2 sentence limit
-                on responses, forcing the AI to deliver punchlines rather than lectures.
+                Early versions enforced strict 1-2 sentence limits to match Watts&apos; pithy style.
+                This was a mistake&mdash;short responses left no room for the acknowledge &rarr; reframe &rarr; insight
+                pattern that actually helps people.
               </p>
               <div className="grid grid-cols-2 gap-4 text-sm">
                 <div className="bg-red-900/20 border border-red-900/30 rounded-lg p-3">
-                  <p className="text-red-400 text-xs mb-1">Before optimization</p>
-                  <p className="text-zinc-400">4.2 sentences avg</p>
+                  <p className="text-red-400 text-xs mb-1">With brevity constraint</p>
+                  <p className="text-zinc-400">~50% pass rate</p>
                 </div>
                 <div className="bg-green-900/20 border border-green-900/30 rounded-lg p-3">
-                  <p className="text-green-400 text-xs mb-1">After optimization</p>
-                  <p className="text-zinc-400">1.8 sentences avg</p>
+                  <p className="text-green-400 text-xs mb-1">Focused on helpfulness</p>
+                  <p className="text-zinc-400">~85% pass rate</p>
                 </div>
               </div>
             </div>
@@ -166,23 +167,28 @@ export default function TechnologyPage() {
         <section className="mb-16">
           <h2 className="text-2xl font-serif mb-6 text-amber-400">Quality Metrics</h2>
           <p className="text-zinc-300 mb-6">
-            We developed a second-order &quot;study loop&quot; with two gates that both must pass:
+            We developed an RL-inspired &quot;study loop&quot; with three gates that all must pass:
           </p>
-          <div className="grid md:grid-cols-3 gap-6">
+          <div className="grid md:grid-cols-4 gap-4">
             <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-6 text-center">
-              <p className="text-4xl font-bold text-amber-400 mb-2">98</p>
-              <p className="text-zinc-500 text-sm">Overall Score</p>
-              <p className="text-zinc-600 text-xs mt-1">out of 100</p>
+              <p className="text-4xl font-bold text-amber-400 mb-2">85%</p>
+              <p className="text-zinc-500 text-sm">Pass Rate</p>
+              <p className="text-zinc-600 text-xs mt-1">after optimization</p>
             </div>
             <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-6 text-center">
-              <p className="text-4xl font-bold text-green-400 mb-2">5/5</p>
-              <p className="text-zinc-500 text-sm">Gate 1: Form</p>
-              <p className="text-zinc-600 text-xs mt-1">brevity, voice, no self-help, no fluff</p>
+              <p className="text-4xl font-bold text-green-400 mb-2">G1</p>
+              <p className="text-zinc-500 text-sm">Form</p>
+              <p className="text-zinc-600 text-xs mt-1">no self-help, no fluff</p>
             </div>
             <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-6 text-center">
-              <p className="text-4xl font-bold text-green-400 mb-2">5/5</p>
-              <p className="text-zinc-500 text-sm">Gate 2: Value</p>
-              <p className="text-zinc-600 text-xs mt-1">connection, warmth, actionable</p>
+              <p className="text-4xl font-bold text-green-400 mb-2">G2</p>
+              <p className="text-zinc-500 text-sm">Helpfulness</p>
+              <p className="text-zinc-600 text-xs mt-1">acknowledges, reframes, gives</p>
+            </div>
+            <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-6 text-center">
+              <p className="text-4xl font-bold text-green-400 mb-2">G3</p>
+              <p className="text-zinc-500 text-sm">Engagement</p>
+              <p className="text-zinc-600 text-xs mt-1">opens space, invites deeper</p>
             </div>
           </div>
           <p className="text-zinc-500 text-sm mt-4 text-center">
