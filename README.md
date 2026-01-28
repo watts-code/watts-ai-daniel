@@ -68,7 +68,7 @@ const SELF_HELP_BANNED = [
 ];
 
 // Pseudo-profound fluff (sounds deep, says nothing)
-const BULLSHIT_PATTERNS = [
+const FLUFF_PATTERNS = [
   /testament to/i, /profound appreciation/i,
   /tapestry of/i, /infinite wisdom/i
 ];
