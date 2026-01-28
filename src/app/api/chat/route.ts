@@ -2,10 +2,9 @@ import { NextRequest } from 'next/server';
 import { buildSystemPrompt } from '@/config/prompts';
 import { DepthLevel, TopicType } from '@/types';
 
-// Use Artemis in production, Ollama locally
-const ARTEMIS_URL = process.env.ARTEMIS_URL || 'https://artemis.jettaintelligence.com';
-const ARTEMIS_API_KEY = process.env.ARTEMIS_API_KEY;
-const USE_ARTEMIS = !!ARTEMIS_API_KEY;
+// Use OpenRouter in production, Ollama locally
+const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
+const USE_OPENROUTER = !!OPENROUTER_API_KEY;
 
 // Fallback to local Ollama for development
 const OLLAMA_URL = process.env.OLLAMA_URL || 'http://localhost:11434';
@@ -35,9 +34,9 @@ export async function POST(request: NextRequest) {
       messages,
     });
 
-    if (USE_ARTEMIS) {
-      // Production: Use Artemis (OpenAI-compatible API)
-      return await streamFromArtemis(systemPrompt, messages);
+    if (USE_OPENROUTER) {
+      // Production: Use OpenRouter directly
+      return await streamFromOpenRouter(systemPrompt, messages);
     } else {
       // Development: Use local Ollama
       return await streamFromOllama(systemPrompt, messages);
@@ -51,18 +50,20 @@ export async function POST(request: NextRequest) {
   }
 }
 
-async function streamFromArtemis(
+async function streamFromOpenRouter(
   systemPrompt: string,
   messages: Array<{ role: 'user' | 'assistant'; content: string }>
 ): Promise<Response> {
-  const response = await fetch(`${ARTEMIS_URL}/v1/chat/completions`, {
+  const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
-      'Authorization': `Bearer ${ARTEMIS_API_KEY}`,
+      'Authorization': `Bearer ${OPENROUTER_API_KEY}`,
+      'HTTP-Referer': 'https://watts.jettaintelligence.com',
+      'X-Title': 'Watts AI',
     },
     body: JSON.stringify({
-      model: 'meta-llama/llama-3.1-8b-instruct', // Via OpenRouter
+      model: 'meta-llama/llama-3.1-8b-instruct',
       messages: [
         { role: 'system', content: systemPrompt },
         ...messages,
@@ -75,11 +76,11 @@ async function streamFromArtemis(
 
   if (!response.ok) {
     const error = await response.text();
-    console.error('Artemis error:', error);
-    throw new Error(`Artemis API error: ${response.status}`);
+    console.error('OpenRouter error:', error);
+    throw new Error(`OpenRouter API error: ${response.status}`);
   }
 
-  // Transform Artemis SSE to our format
+  // Transform OpenRouter SSE to our format
   const encoder = new TextEncoder();
   const decoder = new TextDecoder();
 
