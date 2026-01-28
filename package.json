@@ -1,0 +1,26 @@
+{
+  "name": "watts-study-loop",
+  "version": "1.0.0",
+  "description": "AI-assisted prompt engineering using study loops - one AI scoring another to improve persona quality",
+  "main": "src/run-study-loop.ts",
+  "scripts": {
+    "test": "npx ts-node src/run-study-loop.ts",
+    "test:single": "npx ts-node src/run-study-loop.ts --prompt",
+    "coverage": "npx ts-node src/run-study-loop.ts --coverage",
+    "lint": "eslint src/**/*.ts"
+  },
+  "keywords": [
+    "llm",
+    "prompt-engineering",
+    "study-loop",
+    "persona",
+    "alan-watts"
+  ],
+  "author": "AIC Holdings",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
